@@ -1,0 +1,522 @@
+{
+  "clusters": {
+    "core": [
+      {
+        "slug": "annual-tax-calculator",
+        "title": "Annual Tax Calculator Malaysia 2026",
+        "metaTitle": "Annual Income Tax Calculator Malaysia 2026 | Free LHDN Tax Estimator",
+        "metaDescription": "Calculate your complete annual income tax for 2026. Includes PCB, reliefs, rebates, and refund estimates. Updated with latest LHDN tax rates.",
+        "h1": "Annual Income Tax Calculator Malaysia 2026",
+        "subtitle": "Calculate Your Complete Year Tax Liability with Monthly Breakdown",
+        "keywords": ["annual tax calculator malaysia", "yearly income tax", "LHDN annual tax", "full year tax estimate"],
+        "calculationType": "annual"
+      },
+      {
+        "slug": "take-home-pay-calculator",
+        "title": "Take Home Pay Calculator Malaysia 2026",
+        "metaTitle": "Take Home Pay Calculator Malaysia | Net Salary After Tax Calculator 2026",
+        "metaDescription": "Calculate your actual take-home pay after EPF, SOCSO, EIS, and PCB deductions. See your real monthly net salary in Malaysia.",
+        "h1": "Take Home Pay Calculator Malaysia 2026",
+        "subtitle": "See Your Real Monthly Net Salary After All Deductions",
+        "keywords": ["take home pay calculator", "net salary malaysia", "after tax salary", "monthly take home"],
+        "calculationType": "takeHome"
+      },
+      {
+        "slug": "pcb-calculator",
+        "title": "PCB Calculator Malaysia 2026",
+        "metaTitle": "PCB Calculator Malaysia 2026 | Monthly Tax Deduction Calculator LHDN",
+        "metaDescription": "Calculate monthly PCB (Potongan Cukai Bulanan) deductions accurately. Verify your employer's tax deductions with official LHDN rates.",
+        "h1": "PCB Calculator Malaysia 2026",
+        "subtitle": "Calculate Monthly Tax Deductions (Potongan Cukai Bulanan)",
+        "keywords": ["pcb calculator malaysia", "monthly tax deduction", "potongan cukai bulanan", "employer tax"],
+        "calculationType": "pcb"
+      },
+      {
+        "slug": "net-salary-calculator",
+        "title": "Net Salary Calculator Malaysia 2026",
+        "metaTitle": "Net Salary Calculator Malaysia | After Deduction Salary Calculator 2026",
+        "metaDescription": "Calculate net salary after EPF, SOCSO, EIS, and income tax deductions. Get accurate breakdown of statutory deductions.",
+        "h1": "Net Salary Calculator Malaysia 2026",
+        "subtitle": "Comprehensive Breakdown of All Statutory Deductions",
+        "keywords": ["net salary calculator", "salary after deduction", "statutory deductions malaysia"],
+        "calculationType": "netSalary"
+      },
+      {
+        "slug": "gross-to-net-calculator",
+        "title": "Gross to Net Salary Calculator Malaysia 2026",
+        "metaTitle": "Gross to Net Calculator Malaysia | Salary Conversion Calculator 2026",
+        "metaDescription": "Convert gross salary to net take-home pay. Calculate reverse: what gross salary do you need for your target net income?",
+        "h1": "Gross to Net Salary Calculator Malaysia 2026",
+        "subtitle": "Convert Between Gross and Net Salary Instantly",
+        "keywords": ["gross to net calculator", "salary conversion malaysia", "gross net difference"],
+        "calculationType": "grossToNet"
+      },
+      {
+        "slug": "mtd-calculator",
+        "title": "MTD Tax Calculator Malaysia 2026",
+        "metaTitle": "MTD Tax Calculator Malaysia | Month-to-Date Tax Tracker 2026",
+        "metaDescription": "Track your month-to-date income tax. See current month tax with projection for remaining days. Stay on top of your tax.",
+        "h1": "MTD (Month-to-Date) Tax Calculator 2026",
+        "subtitle": "Track Current Month Tax with Real-Time Projection",
+        "keywords": ["mtd tax calculator", "month to date tax", "current month tax malaysia"],
+        "calculationType": "mtd"
+      },
+      {
+        "slug": "tax-refund-calculator",
+        "title": "Tax Refund Calculator Malaysia 2026",
+        "metaTitle": "Tax Refund Calculator Malaysia | LHDN Refund Estimator 2026",
+        "metaDescription": "Find out if LHDN owes you money. Calculate tax overpayment and refund amount. Most Malaysians get back RM2,000-RM5,000.",
+        "h1": "Tax Refund Calculator Malaysia 2026",
+        "subtitle": "Discover If LHDN Owes You Money (Average Refund: RM3,200)",
+        "keywords": ["tax refund calculator malaysia", "lhdn refund", "tax overpayment", "tax rebate malaysia"],
+        "calculationType": "refund"
+      },
+      {
+        "slug": "over-under-mtd-detector",
+        "title": "Over/Under MTD Tax Detector Malaysia 2026",
+        "metaTitle": "MTD Tax Variance Detector | PCB vs Actual Tax Calculator Malaysia 2026",
+        "metaDescription": "Detect if you're paying too much or too little monthly tax. Compare PCB deductions against actual tax liability.",
+        "h1": "Over/Under MTD Tax Detector 2026",
+        "subtitle": "Are You Overpaying or Underpaying Monthly Tax?",
+        "keywords": ["mtd tax variance", "pcb overpayment", "tax underpayment detector"],
+        "calculationType": "mtdVariance"
+      },
+      {
+        "slug": "ytd-tax-tracker",
+        "title": "YTD Tax Tracker Malaysia 2026",
+        "metaTitle": "YTD Tax Tracker Malaysia | Year-to-Date Income Tax Calculator 2026",
+        "metaDescription": "Track year-to-date cumulative tax with remaining year projection. Stay ahead of your annual tax liability.",
+        "h1": "YTD (Year-to-Date) Tax Tracker 2026",
+        "subtitle": "Track Cumulative Tax with End-of-Year Projection",
+        "keywords": ["ytd tax tracker", "year to date tax", "cumulative tax malaysia", "annual tax projection"],
+        "calculationType": "ytd"
+      },
+      {
+        "slug": "tax-bracket-calculator",
+        "title": "Tax Bracket Calculator Malaysia 2026",
+        "metaTitle": "Tax Bracket Calculator Malaysia | Income Tax Rate Finder 2026",
+        "metaDescription": "Find your current tax bracket and rate. See how far you are from the next bracket. Plan salary increases strategically.",
+        "h1": "Tax Bracket Calculator Malaysia 2026",
+        "subtitle": "Discover Your Tax Bracket & Distance to Next Threshold",
+        "keywords": ["tax bracket malaysia", "income tax rate", "tax threshold", "marginal tax rate"],
+        "calculationType": "bracket"
+      }
+    ],
+    "bonus": [
+      {
+        "slug": "bonus-tax-calculator",
+        "title": "Bonus Tax Calculator Malaysia 2026",
+        "metaTitle": "Bonus Tax Calculator Malaysia | One-Time Bonus Tax Impact 2026",
+        "metaDescription": "Calculate tax on your bonus payment. See how bonuses affect your MTD and annual tax. Most people lose 15-25% to tax.",
+        "h1": "Bonus Tax Calculator Malaysia 2026",
+        "subtitle": "Calculate Tax Impact of Your Bonus Payment",
+        "keywords": ["bonus tax calculator", "bonus income tax", "annual bonus tax malaysia"],
+        "calculationType": "bonus"
+      },
+      {
+        "slug": "commission-tax-calculator",
+        "title": "Commission Tax Calculator Malaysia 2026",
+        "metaTitle": "Commission Tax Calculator Malaysia | Variable Income Tax 2026",
+        "metaDescription": "Calculate tax on commission income. Plan for variable earnings with accurate tax estimates. Essential for sales professionals.",
+        "h1": "Commission Tax Calculator Malaysia 2026",
+        "subtitle": "Calculate Tax on Variable Commission Income",
+        "keywords": ["commission tax", "sales commission tax malaysia", "variable income tax"],
+        "calculationType": "commission"
+      },
+      {
+        "slug": "overtime-tax-calculator",
+        "title": "Overtime Tax Calculator Malaysia 2026",
+        "metaTitle": "Overtime Tax Calculator Malaysia | Extra Hours Tax Impact 2026",
+        "metaDescription": "Calculate tax on overtime pay. See how extra hours affect your take-home. Know your real hourly rate after tax.",
+        "h1": "Overtime Tax Calculator Malaysia 2026",
+        "subtitle": "Calculate Tax Impact of Overtime Hours",
+        "keywords": ["overtime tax calculator", "overtime pay tax", "extra hours tax malaysia"],
+        "calculationType": "overtime"
+      },
+      {
+        "slug": "13th-month-salary-tax",
+        "title": "13th Month Salary Tax Calculator Malaysia 2026",
+        "metaTitle": "13th Month Salary Tax Calculator | Year-End Bonus Tax Malaysia 2026",
+        "metaDescription": "Calculate tax on your 13th month salary. Optimize reliefs to reduce tax on year-end bonus. Save up to RM2,000.",
+        "h1": "13th Month Salary Tax Calculator 2026",
+        "subtitle": "Calculate Year-End Bonus Tax with Relief Optimization",
+        "keywords": ["13th month salary tax", "year end bonus tax", "december bonus tax malaysia"],
+        "calculationType": "thirteenthMonth"
+      },
+      {
+        "slug": "salary-increment-tax-impact",
+        "title": "Salary Increment Tax Impact Calculator 2026",
+        "metaTitle": "Salary Increment Tax Calculator Malaysia | Raise Tax Impact 2026",
+        "metaDescription": "Calculate how much of your salary increase you'll actually keep after tax. See before vs after comparison.",
+        "h1": "Salary Increment Tax Impact Calculator 2026",
+        "subtitle": "See Real Impact of Your Salary Increase After Tax",
+        "keywords": ["salary increment tax", "raise tax impact", "salary increase after tax"],
+        "calculationType": "increment"
+      },
+      {
+        "slug": "salary-offer-net-calculator",
+        "title": "Salary Offer Net Calculator Malaysia 2026",
+        "metaTitle": "Job Offer Net Salary Calculator Malaysia | Real Take-Home 2026",
+        "metaDescription": "Evaluate job offers accurately. Calculate real take-home from gross salary offered. Compare multiple offers side-by-side.",
+        "h1": "Salary Offer Net Calculator 2026",
+        "subtitle": "Know Your Real Take-Home Before Accepting Job Offer",
+        "keywords": ["job offer calculator", "salary offer net", "compare job offers malaysia"],
+        "calculationType": "salaryOffer"
+      },
+      {
+        "slug": "bonus-vs-salary-comparison",
+        "title": "Bonus vs Salary Comparison Calculator 2026",
+        "metaTitle": "Bonus vs Salary Tax Comparison Malaysia | Tax Efficiency 2026",
+        "metaDescription": "Should you take a higher salary or larger bonus? Compare tax efficiency of different compensation structures.",
+        "h1": "Bonus vs Salary Tax Comparison 2026",
+        "subtitle": "Find the Most Tax-Efficient Compensation Structure",
+        "keywords": ["bonus vs salary tax", "compensation tax efficiency", "salary structure malaysia"],
+        "calculationType": "bonusVsSalary"
+      }
+    ],
+    "jobChange": [
+      {
+        "slug": "job-switch-tax-calculator",
+        "title": "Job Switch Tax Calculator Malaysia 2026",
+        "metaTitle": "Job Switch Tax Calculator Malaysia | Mid-Year Employment Change 2026",
+        "metaDescription": "Calculate tax when changing jobs mid-year. Handle dual employer income correctly. Avoid surprise tax bills.",
+        "h1": "Job Switch Tax Calculator Malaysia 2026",
+        "subtitle": "Calculate Tax Impact of Mid-Year Job Change",
+        "keywords": ["job change tax", "switching jobs tax", "dual employer tax malaysia"],
+        "calculationType": "jobSwitch"
+      },
+      {
+        "slug": "tp3-income-calculator",
+        "title": "TP3 Income Calculator Malaysia 2026",
+        "metaTitle": "TP3 Income Calculator Malaysia | Multiple Employer Tax 2026",
+        "metaDescription": "Calculate combined income from multiple employers for TP3 form. Aggregate earnings accurately for LHDN filing.",
+        "h1": "TP3 Income Calculator Malaysia 2026",
+        "subtitle": "Calculate Multiple Employer Income for Tax Filing",
+        "keywords": ["tp3 calculator", "multiple employer tax", "tp3 form malaysia"],
+        "calculationType": "tp3"
+      },
+      {
+        "slug": "resignation-month-tax-calculator",
+        "title": "Resignation Month Tax Calculator Malaysia 2026",
+        "metaTitle": "Resignation Month Tax Calculator | Partial Month Employment Tax 2026",
+        "metaDescription": "Calculate tax for partial month employment when resigning. Get accurate final paycheck tax deduction.",
+        "h1": "Resignation Month Tax Calculator 2026",
+        "subtitle": "Calculate Tax for Your Final Paycheck",
+        "keywords": ["resignation tax", "final paycheck tax", "partial month tax malaysia"],
+        "calculationType": "resignation"
+      },
+      {
+        "slug": "new-job-pcb-estimator",
+        "title": "New Job PCB Estimator Malaysia 2026",
+        "metaTitle": "New Job PCB Calculator Malaysia | First Paycheck Tax 2026",
+        "metaDescription": "Estimate PCB deductions at your new job. Know what to expect on your first paycheck. No surprises.",
+        "h1": "New Job PCB Estimator Malaysia 2026",
+        "subtitle": "Preview Tax Deductions on Your First Paycheck",
+        "keywords": ["new job tax", "first paycheck tax", "starting employment tax malaysia"],
+        "calculationType": "newJobPcb"
+      },
+      {
+        "slug": "unpaid-leave-tax-impact",
+        "title": "Unpaid Leave Tax Impact Calculator 2026",
+        "metaTitle": "Unpaid Leave Tax Calculator Malaysia | Salary Reduction Tax 2026",
+        "metaDescription": "Calculate tax impact of unpaid leave periods. Adjust annual tax estimates for reduced income months.",
+        "h1": "Unpaid Leave Tax Impact Calculator 2026",
+        "subtitle": "Calculate Tax Adjustment for Unpaid Leave Periods",
+        "keywords": ["unpaid leave tax", "salary reduction tax", "leave without pay tax"],
+        "calculationType": "unpaidLeave"
+      }
+    ],
+    "monthly": [
+      {
+        "slug": "monthly-tax-planner",
+        "title": "Monthly Tax Planner Malaysia 2026",
+        "metaTitle": "Monthly Tax Planner Malaysia | Forward-Looking Tax Planning 2026",
+        "metaDescription": "Plan your monthly tax obligations ahead. Project future tax liability and optimize deductions proactively.",
+        "h1": "Monthly Tax Planner Malaysia 2026",
+        "subtitle": "Plan Future Tax Obligations Month by Month",
+        "keywords": ["monthly tax planner", "tax planning malaysia", "monthly tax projection"],
+        "calculationType": "monthlyPlanner"
+      },
+      {
+        "slug": "tax-provision-calculator",
+        "title": "Tax Provision Calculator Malaysia 2026",
+        "metaTitle": "Tax Provision Calculator Malaysia | Self-Employed Tax Set-Aside 2026",
+        "metaDescription": "Calculate how much to set aside monthly for annual tax. Essential for self-employed and freelancers.",
+        "h1": "Tax Provision Calculator Malaysia 2026",
+        "subtitle": "Calculate Monthly Tax Set-Aside Amount",
+        "keywords": ["tax provision", "tax set aside", "self employed tax planning"],
+        "calculationType": "provision"
+      },
+      {
+        "slug": "effective-tax-rate-calculator",
+        "title": "Effective Tax Rate Calculator Malaysia 2026",
+        "metaTitle": "Effective Tax Rate Calculator Malaysia | True Tax Rate 2026",
+        "metaDescription": "Calculate your true effective tax rate. See what percentage of income actually goes to tax after all reliefs.",
+        "h1": "Effective Tax Rate Calculator Malaysia 2026",
+        "subtitle": "Calculate Your True Average Tax Rate",
+        "keywords": ["effective tax rate", "average tax rate malaysia", "true tax percentage"],
+        "calculationType": "effectiveRate"
+      },
+      {
+        "slug": "marginal-tax-rate-calculator",
+        "title": "Marginal Tax Rate Calculator Malaysia 2026",
+        "metaTitle": "Marginal Tax Rate Calculator Malaysia | Next Ringgit Tax Rate 2026",
+        "metaDescription": "Find out what rate your next ringgit earned will be taxed at. Critical for bonus and raise decisions.",
+        "h1": "Marginal Tax Rate Calculator Malaysia 2026",
+        "subtitle": "Find Your Next Ringgit Tax Rate",
+        "keywords": ["marginal tax rate", "incremental tax rate", "next ringgit taxed at"],
+        "calculationType": "marginalRate"
+      },
+      {
+        "slug": "monthly-income-projection",
+        "title": "Monthly Income Projection Tax Calculator 2026",
+        "metaTitle": "Monthly Income Projection Malaysia | Variable Salary Tax Smoothing 2026",
+        "metaDescription": "Project annual tax from varying monthly income. Smooth out income variations for accurate tax planning.",
+        "h1": "Monthly Income Projection Calculator 2026",
+        "subtitle": "Project Annual Tax from Variable Monthly Income",
+        "keywords": ["income projection tax", "variable income tax", "monthly salary variation"],
+        "calculationType": "monthlyProjection"
+      }
+    ],
+    "relief": [
+      {
+        "slug": "tax-relief-calculator",
+        "title": "Tax Relief Calculator Malaysia 2026",
+        "metaTitle": "Tax Relief Calculator Malaysia 2026 | Relief Aggregator & Optimizer",
+        "metaDescription": "Calculate all tax reliefs you're entitled to. Maximize deductions with comprehensive relief optimizer. Save RM2,000-RM8,000.",
+        "h1": "Tax Relief Calculator Malaysia 2026",
+        "subtitle": "Maximize All Tax Reliefs You're Entitled To",
+        "keywords": ["tax relief calculator", "relief optimizer", "tax deductions malaysia"],
+        "calculationType": "relief"
+      },
+      {
+        "slug": "lifestyle-relief-calculator",
+        "title": "Lifestyle Relief Calculator Malaysia 2026",
+        "metaTitle": "Lifestyle Relief Calculator Malaysia | RM2,500 Relief Optimizer 2026",
+        "metaDescription": "Track and optimize your RM2,500 lifestyle relief. Includes sports, books, gadgets, internet. Don't waste any ringgit.",
+        "h1": "Lifestyle Relief Calculator Malaysia 2026",
+        "subtitle": "Optimize Your RM2,500 Lifestyle Relief Claim",
+        "keywords": ["lifestyle relief", "rm2500 relief", "lifestyle tax deduction"],
+        "calculationType": "lifestyleRelief"
+      },
+      {
+        "slug": "epf-tax-relief-calculator",
+        "title": "EPF Tax Relief Calculator Malaysia 2026",
+        "metaTitle": "EPF Tax Relief Calculator Malaysia | Voluntary Contribution Savings 2026",
+        "metaDescription": "Calculate tax savings from voluntary EPF contributions. See how much you save while boosting retirement. Double benefit.",
+        "h1": "EPF Tax Relief Calculator Malaysia 2026",
+        "subtitle": "Calculate Tax Savings from Voluntary EPF Contributions",
+        "keywords": ["epf tax relief", "voluntary epf tax", "kwsp tax deduction"],
+        "calculationType": "epfRelief"
+      },
+      {
+        "slug": "prs-tax-relief-calculator",
+        "title": "PRS Tax Relief Calculator Malaysia 2026",
+        "metaTitle": "PRS Tax Relief Calculator Malaysia | Private Retirement Scheme Tax 2026",
+        "metaDescription": "Calculate PRS tax relief benefits. See tax savings from private retirement scheme contributions up to RM3,000.",
+        "h1": "PRS Tax Relief Calculator Malaysia 2026",
+        "subtitle": "Calculate Tax Benefits of PRS Contributions",
+        "keywords": ["prs tax relief", "private retirement scheme tax", "prs deduction"],
+        "calculationType": "prsRelief"
+      },
+      {
+        "slug": "zakat-tax-rebate-calculator",
+        "title": "Zakat Tax Rebate Calculator Malaysia 2026",
+        "metaTitle": "Zakat Tax Rebate Calculator Malaysia | Zakat Deduction Impact 2026",
+        "metaDescription": "Calculate tax rebate from zakat payments. Optimize between zakat and tax. Reduce tax payable ringgit-for-ringgit.",
+        "h1": "Zakat Tax Rebate Calculator Malaysia 2026",
+        "subtitle": "Calculate Tax Rebate Impact of Zakat Payments",
+        "keywords": ["zakat tax rebate", "zakat deduction", "zakat tax relief malaysia"],
+        "calculationType": "zakatRebate"
+      },
+      {
+        "slug": "insurance-relief-calculator",
+        "title": "Insurance Relief Calculator Malaysia 2026",
+        "metaTitle": "Insurance Tax Relief Calculator Malaysia | Life & Medical Premium 2026",
+        "metaDescription": "Calculate tax relief from life and medical insurance premiums. Maximize your RM3,000 insurance relief claim.",
+        "h1": "Insurance Tax Relief Calculator Malaysia 2026",
+        "subtitle": "Calculate Tax Relief from Insurance Premiums",
+        "keywords": ["insurance tax relief", "life insurance relief", "medical insurance tax deduction"],
+        "calculationType": "insuranceRelief"
+      }
+    ],
+    "expat": [
+      {
+        "slug": "non-resident-tax-calculator",
+        "title": "Non-Resident Tax Calculator Malaysia 2026",
+        "metaTitle": "Non-Resident Tax Calculator Malaysia | 30% Flat Rate Calculator 2026",
+        "metaDescription": "Calculate non-resident income tax at 30% flat rate. Compare against resident rates. Critical for expats and foreign workers.",
+        "h1": "Non-Resident Tax Calculator Malaysia 2026",
+        "subtitle": "Calculate Tax at 30% Non-Resident Flat Rate",
+        "keywords": ["non resident tax", "expat tax malaysia", "30 percent tax rate"],
+        "calculationType": "nonResident"
+      },
+      {
+        "slug": "residency-days-calculator",
+        "title": "Tax Residency Days Calculator Malaysia 2026",
+        "metaTitle": "Tax Residency Days Calculator Malaysia | 182-Day Threshold Tracker 2026",
+        "metaDescription": "Track days in Malaysia to determine tax residency status. Know if you'll hit the 182-day threshold.",
+        "h1": "Tax Residency Days Calculator Malaysia 2026",
+        "subtitle": "Track Days to Determine Tax Residency Status",
+        "keywords": ["tax residency calculator", "182 day rule", "residency status malaysia"],
+        "calculationType": "residencyDays"
+      },
+      {
+        "slug": "resident-vs-nonresident-tax-comparison",
+        "title": "Resident vs Non-Resident Tax Comparison 2026",
+        "metaTitle": "Resident vs Non-Resident Tax Comparison Malaysia | Rate Comparison 2026",
+        "metaDescription": "Compare resident progressive rates vs non-resident 30% flat rate. See which status saves you more tax.",
+        "h1": "Resident vs Non-Resident Tax Comparison 2026",
+        "subtitle": "Compare Tax Under Different Residency Status",
+        "keywords": ["resident vs non resident", "tax status comparison", "expat tax comparison"],
+        "calculationType": "residentComparison"
+      },
+      {
+        "slug": "expat-net-pay-calculator",
+        "title": "Expat Net Pay Calculator Malaysia 2026",
+        "metaTitle": "Expat Net Pay Calculator Malaysia | Foreign Worker Take-Home 2026",
+        "metaDescription": "Calculate expat take-home pay after all deductions. Includes tax, EPF, SOCSO exemptions. Know your real net salary.",
+        "h1": "Expat Net Pay Calculator Malaysia 2026",
+        "subtitle": "Calculate Foreign Worker Real Take-Home Pay",
+        "keywords": ["expat net pay", "foreign worker salary", "expat take home malaysia"],
+        "calculationType": "expatNetPay"
+      }
+    ],
+    "sideIncome": [
+      {
+        "slug": "freelancer-tax-calculator",
+        "title": "Freelancer Tax Calculator Malaysia 2026",
+        "metaTitle": "Freelancer Tax Calculator Malaysia | Self-Employed Income Tax 2026",
+        "metaDescription": "Calculate freelancer income tax with quarterly provision planning. Essential for self-employed Malaysians.",
+        "h1": "Freelancer Tax Calculator Malaysia 2026",
+        "subtitle": "Calculate Self-Employed Income Tax with Quarterly Provision",
+        "keywords": ["freelancer tax calculator", "self employed tax", "freelance income tax"],
+        "calculationType": "freelancer"
+      },
+      {
+        "slug": "rental-income-tax-calculator",
+        "title": "Rental Income Tax Calculator Malaysia 2026",
+        "metaTitle": "Rental Income Tax Calculator Malaysia | Property Rental Tax 2026",
+        "metaDescription": "Calculate tax on rental income from properties. Includes allowable deductions like assessment tax, quit rent, repairs.",
+        "h1": "Rental Income Tax Calculator Malaysia 2026",
+        "subtitle": "Calculate Tax on Property Rental Income",
+        "keywords": ["rental income tax", "property rental tax malaysia", "landlord tax"],
+        "calculationType": "rentalIncome"
+      },
+      {
+        "slug": "side-income-tax-set-aside",
+        "title": "Side Income Tax Set-Aside Calculator 2026",
+        "metaTitle": "Side Income Tax Calculator Malaysia | Additional Income Tax Planning 2026",
+        "metaDescription": "Calculate how much to set aside from side income for tax. Plan for additional income streams correctly.",
+        "h1": "Side Income Tax Set-Aside Calculator 2026",
+        "subtitle": "Calculate Tax Provision for Additional Income Streams",
+        "keywords": ["side income tax", "additional income tax", "part time income tax"],
+        "calculationType": "sideIncome"
+      },
+      {
+        "slug": "grab-driver-tax-calculator",
+        "title": "Grab Driver Tax Calculator Malaysia 2026",
+        "metaTitle": "Grab Driver Tax Calculator Malaysia | Ride-Hailing Income Tax 2026",
+        "metaDescription": "Calculate income tax for Grab drivers. Includes fuel and vehicle expense deductions. Know your real earnings.",
+        "h1": "Grab Driver Tax Calculator Malaysia 2026",
+        "subtitle": "Calculate Ride-Hailing Income Tax After Expenses",
+        "keywords": ["grab driver tax", "ride hailing tax", "grab income tax malaysia"],
+        "calculationType": "grabDriver"
+      },
+      {
+        "slug": "shopee-seller-tax-calculator",
+        "title": "Shopee Seller Tax Calculator Malaysia 2026",
+        "metaTitle": "Shopee Seller Tax Calculator Malaysia | E-Commerce Income Tax 2026",
+        "metaDescription": "Calculate income tax for Shopee sellers. Includes cost of goods and platform fees. Essential for online sellers.",
+        "h1": "Shopee Seller Tax Calculator Malaysia 2026",
+        "subtitle": "Calculate E-Commerce Income Tax After Costs",
+        "keywords": ["shopee seller tax", "e commerce tax", "online business tax malaysia"],
+        "calculationType": "shopeeSeller"
+      }
+    ],
+    "comparison": [
+      {
+        "slug": "raise-negotiation-calculator",
+        "title": "Raise Negotiation Calculator Malaysia 2026",
+        "metaTitle": "Salary Raise Negotiation Calculator Malaysia | After-Tax Increase 2026",
+        "metaDescription": "Negotiate raises effectively. See real take-home increase after tax. Know what gross raise you need for target net increase.",
+        "h1": "Raise Negotiation Calculator Malaysia 2026",
+        "subtitle": "Calculate Real Take-Home from Salary Increase",
+        "keywords": ["raise negotiation", "salary increase calculator", "negotiate salary malaysia"],
+        "calculationType": "raiseNegotiation"
+      },
+      {
+        "slug": "company-a-vs-company-b-salary-comparison",
+        "title": "Company Salary Comparison Calculator 2026",
+        "metaTitle": "Job Offer Comparison Calculator Malaysia | Side-by-Side Salary Analysis 2026",
+        "metaDescription": "Compare job offers side-by-side after tax. See real take-home difference. Make informed career decisions.",
+        "h1": "Company A vs B Salary Comparison 2026",
+        "subtitle": "Compare Multiple Job Offers After Tax Side-by-Side",
+        "keywords": ["compare job offers", "salary comparison", "job offer calculator"],
+        "calculationType": "companyComparison"
+      },
+      {
+        "slug": "salary-packaging-tax-impact",
+        "title": "Salary Packaging Tax Impact Calculator 2026",
+        "metaTitle": "Salary Packaging Calculator Malaysia | Allowances vs Base Salary 2026",
+        "metaDescription": "Compare tax efficiency of allowances vs base salary. Optimize your salary package structure for maximum take-home.",
+        "h1": "Salary Packaging Tax Impact Calculator 2026",
+        "subtitle": "Optimize Compensation Structure for Tax Efficiency",
+        "keywords": ["salary packaging", "allowances vs salary", "compensation structure tax"],
+        "calculationType": "salaryPackaging"
+      },
+      {
+        "slug": "allowance-taxability-checker",
+        "title": "Allowance Taxability Checker Malaysia 2026",
+        "metaTitle": "Allowance Taxability Calculator Malaysia | Benefit-in-Kind Tax 2026",
+        "metaDescription": "Check if your allowances are taxable. Calculate benefit-in-kind tax implications. Know the tax on perks.",
+        "h1": "Allowance Taxability Checker Malaysia 2026",
+        "subtitle": "Determine Tax Implications of Employment Benefits",
+        "keywords": ["allowance taxability", "benefit in kind tax", "perks tax malaysia"],
+        "calculationType": "allowanceTaxability"
+      },
+      {
+        "slug": "employer-tax-borne-calculator",
+        "title": "Employer Tax Borne Calculator Malaysia 2026",
+        "metaTitle": "Employer Tax Borne Calculator Malaysia | Tax-Inclusive Salary 2026",
+        "metaDescription": "Calculate tax-inclusive salary packages where employer bears the tax. Know gross required for target net.",
+        "h1": "Employer Tax Borne Calculator Malaysia 2026",
+        "subtitle": "Calculate Tax-Inclusive Compensation Packages",
+        "keywords": ["employer tax borne", "tax inclusive salary", "tax borne by employer"],
+        "calculationType": "employerTaxBorne"
+      }
+    ],
+    "longTail": [
+      {
+        "slug": "next-ringgit-taxed-at-calculator",
+        "title": "Next Ringgit Taxed At Calculator Malaysia 2026",
+        "metaTitle": "Next Ringgit Tax Rate Calculator Malaysia | Marginal Rate Finder 2026",
+        "metaDescription": "Find out what tax rate applies to your next ringgit earned. Critical for optimization decisions.",
+        "h1": "Next Ringgit Taxed At Calculator 2026",
+        "subtitle": "Identify Your Marginal Tax Rate for Next Income",
+        "keywords": ["next ringgit taxed at", "marginal rate calculator", "incremental tax rate"],
+        "calculationType": "nextRinggit"
+      },
+      {
+        "slug": "monthly-to-annual-tax-converter",
+        "title": "Monthly to Annual Tax Converter Malaysia 2026",
+        "metaTitle": "Monthly to Annual Tax Calculator Malaysia | Extrapolation Tool 2026",
+        "metaDescription": "Convert monthly tax to annual estimates. Extrapolate full-year tax from current month data.",
+        "h1": "Monthly to Annual Tax Converter 2026",
+        "subtitle": "Extrapolate Annual Tax from Monthly Income",
+        "keywords": ["monthly to annual tax", "tax extrapolation", "annual tax projection"],
+        "calculationType": "monthlyToAnnual"
+      },
+      {
+        "slug": "payslip-breakdown-calculator",
+        "title": "Payslip Breakdown Calculator Malaysia 2026",
+        "metaTitle": "Payslip Breakdown Calculator Malaysia | Comprehensive Decoder 2026",
+        "metaDescription": "Decode your payslip completely. Understand every deduction, allowance, and benefit. Full transparency.",
+        "h1": "Payslip Breakdown Calculator Malaysia 2026",
+        "subtitle": "Comprehensive Decoder for Every Payslip Line Item",
+        "keywords": ["payslip breakdown", "decode payslip", "understand payslip malaysia"],
+        "calculationType": "payslipBreakdown"
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+Good. We are not building a “type salary → show 11% deduction” toy.
+
+We are building **the EPF super-dashboard Malaysia doesn’t have yet.** 🇲🇾📊
+
+Below is your **complete master Bolt.new prompt** to generate a truly differentiated, high-authority EPF Calculator Malaysia 2026.
+
+You can paste this directly into Bolt.new.
+
+---
+
+# 🔥 MASTER PROMPT — EPF Calculator Malaysia 2026 (Advanced, Standout Version)
+
+Build a production-ready, advanced EPF (KWSP) Calculator for Malaysia 2026 that goes far beyond a basic contribution calculator.
+
+This must be a professional-grade financial tool with detailed breakdowns, projections, optimization insights, comparison scenarios, and interactive visualizations.
+
+The calculator must feel like a financial planning dashboard, not a simple form.
+
+---
+
+# 🎯 PRIMARY GOAL
+
+Create the most comprehensive EPF Calculator in Malaysia that includes:
+
+1. Employee & employer contribution calculation
+2. Age-based contribution rates
+3. Wage tier logic (below RM5,000 vs above RM5,000)
+4. Monthly and annual breakdown
+5. Take-home salary impact
+6. Long-term EPF growth projection with dividends
+7. Retirement projection simulator
+8. Voluntary contribution simulator
+9. Scenario comparison (what-if analysis)
+10. Clear charts and professional UI
+
+---
+
+# 🧮 CORE FEATURES
+
+## 1️⃣ Contribution Calculation Engine
+
+Inputs:
+
+* Monthly Salary (MYR)
+* Age Group:
+
+  * Below 60
+  * 60–75
+* Salary Tier Auto-Detection:
+
+  * Below RM5,000
+  * RM5,000 and above
+* Voluntary Additional Contribution (optional)
+* Employer Voluntary Additional Contribution (optional)
+
+Logic:
+
+Implement official EPF 2026 contribution rates:
+
+For age below 60:
+
+* Employee: 11%
+* Employer:
+
+  * 13% if salary < RM5,000
+  * 12% if salary ≥ RM5,000
+
+For age 60–75:
+
+* Employee: 5.5%
+* Employer: 6.5%
+
+Outputs:
+
+* Employee contribution (monthly)
+* Employer contribution (monthly)
+* Total monthly EPF contribution
+* Annual EPF contribution
+* Total cost to employer
+* Take-home pay after EPF deduction
+
+---
+
+## 2️⃣ Detailed Breakdown Section
+
+Display:
+
+* Employee Contribution
+* Employer Contribution
+* Total Contribution
+* Effective Contribution Rate
+* Net Take-Home Pay
+* Employer Total Cost
+
+Include a toggle:
+
+* Monthly View
+* Annual View
+
+---
+
+## 3️⃣ EPF Growth Projection Simulator
+
+Add advanced projection tool.
+
+Inputs:
+
+* Current EPF Balance
+* Monthly Salary
+* Expected Annual Salary Growth (%)
+* Expected EPF Dividend Rate (% default 5.5%)
+* Years Until Retirement
+* Voluntary Monthly Top-Up (optional)
+
+Logic:
+
+Calculate:
+
+* Future EPF value at retirement
+* Total contributions made
+* Total dividend earned
+* Compounded growth annually
+
+Use compound growth formula with annual dividend accumulation.
+
+---
+
+## 4️⃣ Retirement Income Estimator
+
+Add module:
+
+Based on projected EPF balance:
+
+Inputs:
+
+* Retirement Age
+* Life Expectancy
+* Desired Monthly Withdrawal
+
+Outputs:
+
+* How long EPF will last
+* Sustainable monthly withdrawal amount
+* Shortfall or surplus indicator
+
+---
+
+## 5️⃣ What-If Scenario Comparison
+
+Add side-by-side comparison tool:
+
+Example:
+Scenario A:
+
+* No voluntary contribution
+
+Scenario B:
+
+* +RM500 voluntary contribution monthly
+
+Show:
+
+* Difference in retirement balance
+* Extra dividends earned
+* Retirement impact
+
+This feature alone makes it superior to 95% of calculators online.
+
+---
+
+## 6️⃣ Interactive Charts (Very Important)
+
+Add:
+
+1. Contribution Breakdown Pie Chart
+2. Growth Projection Line Chart
+3. Retirement Balance Timeline Chart
+
+Charts must update dynamically when inputs change.
+
+---
+
+## 7️⃣ Smart Insight Panel (Unique Feature)
+
+Add AI-style financial insights section:
+
+Display auto-generated insights such as:
+
+* “Increasing your voluntary contribution by RM300/month could increase your retirement savings by RMXXX over 25 years.”
+* “At current savings rate, your EPF may sustain 18 years of retirement.”
+* “Your employer contributes 54% of total EPF funding.”
+
+Insights must dynamically calculate.
+
+---
+
+## 8️⃣ UX Requirements
+
+Design must:
+
+* Be modern and professional
+* Use card-based layout
+* Include collapsible advanced settings
+* Have tooltips explaining contribution rules
+* Include loading states and smooth transitions
+* Be fully responsive (mobile optimized)
+* Include clear CTA buttons
+
+---
+
+## 9️⃣ SEO Optimization Structure
+
+Page must include:
+
+* H1: EPF Calculator Malaysia 2026
+* Meta description optimized for:
+
+  * EPF calculator Malaysia
+  * KWSP calculator
+  * EPF contribution calculator 2026
+* Structured data schema for financial calculator
+
+Include content section below calculator explaining:
+
+* What is EPF (KWSP)
+* 2026 contribution rates
+* Why employer rate differs below RM5,000
+* How dividends work
+* Retirement planning tips
+
+Minimum 800–1,200 words SEO content.
+
+---
+
+## 🔟 Technical Requirements
+
+* Use clean modular code
+* Separate calculation logic from UI
+* Use reusable calculation functions
+* Ensure all numbers formatted in MYR (RM)
+* Use proper rounding rules
+* Validate inputs
+* No hardcoded UI values
+
+---
+
+## 🏆 Differentiation Requirements
+
+This calculator must:
+
+* Feel like a financial planning tool
+* Offer long-term projections
+* Offer retirement sustainability simulation
+* Offer scenario comparison
+* Provide dynamic insights
+* Be visually engaging
+* Not look like a basic “multiply by 11%” tool
+
+---
+
+## 🎨 UI Tone
+
+Professional, financial, credible.
+
+Not playful.
+Not overly minimal.
+Not cluttered.
+
+Think fintech dashboard quality.
+
+---
+
+If any feature conflicts, prioritize:
+
+1. Accurate contribution calculation
+2. Growth projection accuracy
+3. Clear breakdown presentation
+4. Insight generation
+
+---
+
+# END OF PROMPT
+

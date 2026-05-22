@@ -1,0 +1,40 @@
+{
+  "year": 2026,
+  "currency": "MYR",
+  "rates": {
+    "peninsular": {
+      "saloon": [
+        { "cc": 1000, "rate": 20 },
+        { "cc": 1200, "rate": 55 },
+        { "cc": 1400, "rate": 70 },
+        { "cc": 1600, "rate": 90 },
+        { "cc": 1800, "rate": 200 },
+        { "cc": 2000, "rate": 360 },
+        { "cc": 2500, "rate": 640 },
+        { "cc": 3000, "rate": 990 },
+        { "cc": 3500, "rate": 1400 },
+        { "cc": 4000, "rate": 1800 },
+        { "cc": 4500, "rate": 2400 },
+        { "cc": 5000, "rate": 3500 }
+      ]
+    },
+    "sabahSarawak": {
+      "saloon": [
+        { "cc": 1000, "rate": 20 },
+        { "cc": 1200, "rate": 40 },
+        { "cc": 1400, "rate": 50 },
+        { "cc": 1600, "rate": 60 },
+        { "cc": 1800, "rate": 100 },
+        { "cc": 2000, "rate": 210 },
+        { "cc": 2500, "rate": 380 },
+        { "cc": 3000, "rate": 590 },
+        { "cc": 3500, "rate": 820 },
+        { "cc": 4000, "rate": 1080 },
+        { "cc": 4500, "rate": 1440 },
+        { "cc": 5000, "rate": 2100 }
+      ]
+    }
+  },
+  "description": "Road tax rates based on engine capacity",
+  "lastUpdated": "2026-01-01"
+}

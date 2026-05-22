@@ -1,0 +1,26 @@
+{
+  "year": 2026,
+  "currency": "MYR",
+  "holdingPeriods": {
+    "individual": [
+      { "years": 0, "maxYears": 3, "rate": 30 },
+      { "years": 3, "maxYears": 4, "rate": 20 },
+      { "years": 4, "maxYears": 5, "rate": 15 },
+      { "years": 5, "maxYears": 6, "rate": 0 },
+      { "years": 6, "maxYears": null, "rate": 0 }
+    ],
+    "company": [
+      { "years": 0, "maxYears": 3, "rate": 30 },
+      { "years": 3, "maxYears": 4, "rate": 20 },
+      { "years": 4, "maxYears": 5, "rate": 15 },
+      { "years": 5, "maxYears": 6, "rate": 10 },
+      { "years": 6, "maxYears": null, "rate": 10 }
+    ]
+  },
+  "exemptions": {
+    "onePrivateResidenceEvery5Years": true,
+    "inheritedProperty": true
+  },
+  "description": "Real Property Gains Tax rates based on holding period",
+  "lastUpdated": "2026-01-01"
+}

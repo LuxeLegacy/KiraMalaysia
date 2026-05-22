@@ -1,0 +1,321 @@
+Excellent. SOCSO is usually treated like a footnote calculator.
+
+We’re not building a footnote.
+
+We’re building a **Malaysia Social Protection Intelligence Tool** 🇲🇾📊
+
+Below is your **complete master Bolt.new prompt** for a standout SOCSO (PERKESO) Calculator Malaysia 2026, built at the same level as your advanced EPF tool.
+
+You can paste this directly into Bolt.new.
+
+---
+
+# 🔥 MASTER PROMPT — SOCSO Calculator Malaysia 2026 (Advanced Version)
+
+Build a professional-grade SOCSO (PERKESO) Calculator for Malaysia 2026 that goes far beyond a simple contribution lookup.
+
+This must function as:
+
+* A contribution calculator
+* A benefits estimator
+* A salary band analyzer
+* A protection simulator
+* A scenario comparison tool
+* A downloadable + emailable financial report generator
+
+It must feel like a social protection dashboard, not a static rate table.
+
+---
+
+# 🎯 PRIMARY OBJECTIVE
+
+Create the most comprehensive SOCSO calculator in Malaysia that includes:
+
+1. Accurate contribution calculation (Category 1 & 2)
+2. Salary band auto-matching
+3. Employer vs employee breakdown
+4. Annual cost impact
+5. Employment injury benefit estimation
+6. Invalidity pension estimation
+7. Protection coverage simulator
+8. What-if salary comparison
+9. Downloadable PDF report
+10. Email delivery
+
+---
+
+# 🧮 1️⃣ Contribution Engine (Core Logic)
+
+Inputs:
+
+* Monthly Salary (MYR)
+* Employment Category:
+
+  * Category 1 (Employment Injury + Invalidity)
+  * Category 2 (Employment Injury only)
+* Salary Type:
+
+  * Fixed
+  * Variable (optional averaging logic)
+
+Logic:
+
+Use official SOCSO contribution table (2026 rates).
+System must:
+
+* Auto-match salary to correct wage band
+* Apply correct employer contribution
+* Apply correct employee contribution
+* Follow statutory minimum & maximum caps
+
+Outputs:
+
+* Employee SOCSO Contribution
+* Employer SOCSO Contribution
+* Total Contribution
+* Effective % of salary
+* Annual contribution amount
+
+---
+
+# 📊 2️⃣ Detailed Contribution Breakdown
+
+Display:
+
+* Wage band used
+* Employer portion
+* Employee portion
+* Total statutory cost
+* Employer total payroll cost (Salary + SOCSO)
+
+Add toggle:
+
+Monthly View | Annual View
+
+---
+
+# 🛡 3️⃣ Benefits Estimator Module (This Makes You Different)
+
+Add advanced simulator:
+
+## A. Employment Injury Temporary Disablement
+
+Estimate:
+
+* Daily benefit rate (based on salary)
+* Estimated monthly payout
+* Replacement income ratio
+
+## B. Permanent Disablement Simulation
+
+Estimate:
+
+* Lump sum equivalent
+* Ongoing benefit estimate
+
+## C. Invalidity Pension Estimator
+
+Inputs:
+
+* Years of contribution
+* Average salary assumption
+
+Outputs:
+
+* Estimated monthly pension
+* Replacement % of income
+
+Show:
+
+“Estimated protection value over 10 years: RM XXXXX”
+
+This transforms calculator into protection analysis tool.
+
+---
+
+# 📈 4️⃣ Protection Coverage Visualizer
+
+Add dashboard showing:
+
+* Income protected % if injury occurs
+* Income replacement gap
+* Risk exposure indicator
+
+Use color indicators:
+
+Green: Adequate
+Yellow: Moderate
+Red: High Risk
+
+---
+
+# 🔄 5️⃣ What-If Salary Comparison
+
+Allow user to compare:
+
+Scenario A: Current Salary
+Scenario B: Higher Salary (e.g. RM8,000)
+
+Show:
+
+* Contribution difference
+* Benefit eligibility difference
+* Pension estimate difference
+
+This is powerful for:
+
+* Employees
+* HR managers
+* Job switchers
+
+---
+
+# 📉 6️⃣ Payroll Cost Impact Module (Employer-Focused)
+
+Add optional toggle:
+
+“I am an Employer”
+
+Show:
+
+* Total SOCSO cost per employee
+* Cost per 10 employees
+* Cost per 50 employees
+* Annual payroll SOCSO burden
+
+This captures SME traffic.
+
+---
+
+# 📊 7️⃣ Interactive Charts
+
+Must include:
+
+1. Contribution Breakdown Pie Chart
+2. Protection vs Salary Gap Chart
+3. Benefit Replacement Ratio Chart
+
+Charts update dynamically.
+
+---
+
+# 📄 8️⃣ Downloadable SOCSO Protection Report (PDF)
+
+Add button:
+
+“Download SOCSO Protection Report”
+
+PDF must include:
+
+* Contribution Summary
+* Salary Band Used
+* Employer vs Employee Breakdown
+* Estimated Benefits
+* Income Replacement Analysis
+* What-if comparison (if used)
+* Methodology
+* Disclaimer
+
+Professional formatting.
+Boardroom-ready.
+Not a browser print page.
+
+---
+
+# 📧 9️⃣ Email Report Delivery
+
+Add email module:
+
+User enters email → system sends:
+
+* PDF attachment
+* Protection summary
+* Key insight
+* Link back to calculator
+
+Must include privacy statement.
+No hard storage without consent.
+
+---
+
+# 🧠 1️⃣0️⃣ Smart Insight Engine
+
+Auto-generate insights such as:
+
+* “Your SOCSO replaces approximately 55% of your income in injury scenarios.”
+* “Increasing declared salary increases invalidity pension eligibility.”
+* “Your employer bears 75% of SOCSO contribution cost.”
+
+Insights must dynamically calculate.
+
+---
+
+# 🎨 UX Requirements
+
+Design must:
+
+* Feel institutional and credible
+* Use structured cards
+* Include tooltips explaining SOCSO categories
+* Have collapsible advanced section
+* Be mobile optimized
+* Include smooth animations
+
+Tone:
+Professional.
+Government-grade clarity.
+Fintech polish.
+
+---
+
+# 🧾 SEO Content Section (Below Calculator)
+
+Include:
+
+* What is SOCSO (PERKESO)
+* Category 1 vs Category 2 explained
+* 2026 contribution table explanation
+* Who must contribute
+* Employer obligations
+* Benefit types explained
+
+Minimum 800–1,200 words.
+
+Include structured schema markup for financial calculator.
+
+---
+
+# 🛠 Technical Requirements
+
+* Separate contribution logic from UI
+* Use accurate wage band mapping
+* Validate inputs
+* Format currency as RM
+* Proper rounding
+* Responsive layout
+* Secure email sending
+
+---
+
+# 🏆 Differentiation Requirements
+
+This must NOT look like:
+
+“Enter salary → Here’s 0.5% deduction.”
+
+It must feel like:
+
+A Malaysian social insurance risk simulator.
+
+---
+
+# 🚀 Optional Future Enhancements
+
+* EIS (Employment Insurance System) integrated toggle
+* Combined EPF + SOCSO + EIS payroll dashboard
+* Employer bulk salary upload (CSV)
+* Malay language toggle
+* Historical rate selector
+
+---
+

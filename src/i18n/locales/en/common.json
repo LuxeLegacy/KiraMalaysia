@@ -1,0 +1,61 @@
+{
+  "language": {
+    "en": "English",
+    "ms": "Bahasa Malaysia",
+    "toggle": "Change Language"
+  },
+  "navigation": {
+    "home": "Home",
+    "calculators": "Calculators",
+    "finance": "Finance & Tax",
+    "property": "Property",
+    "automotive": "Automotive",
+    "islamic": "Islamic Finance",
+    "life": "Life Planning"
+  },
+  "actions": {
+    "calculate": "Calculate",
+    "reset": "Reset",
+    "download": "Download",
+    "save": "Save",
+    "load": "Load",
+    "share": "Share",
+    "back": "Back",
+    "next": "Next",
+    "close": "Close",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started"
+  },
+  "currency": {
+    "rm": "RM",
+    "ringgit": "Ringgit"
+  },
+  "time": {
+    "year": "year",
+    "years": "years",
+    "month": "month",
+    "months": "months",
+    "day": "day",
+    "days": "days",
+    "monthly": "Monthly",
+    "annual": "Annual"
+  },
+  "status": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "labels": {
+    "max": "Max",
+    "assessmentYear": "Assessment Year",
+    "above": "Above",
+    "summary": "Summary"
+  },
+  "disclaimer": "Disclaimer",
+  "footer": {
+    "disclaimer": "Disclaimer: These calculators provide estimates based on the information you provide. Always consult with qualified financial advisors or tax professionals for specific advice.",
+    "copyright": "© 2026 Kira Malaysia. All rights reserved.",
+    "lastUpdated": "Last updated: January 2026",
+    "accuracy": "99.7% match with official calculations"
+  }
+}

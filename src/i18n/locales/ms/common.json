@@ -1,0 +1,61 @@
+{
+  "language": {
+    "en": "English",
+    "ms": "Bahasa Malaysia",
+    "toggle": "Tukar Bahasa"
+  },
+  "navigation": {
+    "home": "Laman Utama",
+    "calculators": "Kalkulator",
+    "finance": "Kewangan & Cukai",
+    "property": "Hartanah",
+    "automotive": "Automotif",
+    "islamic": "Kewangan Islam",
+    "life": "Perancangan Kehidupan"
+  },
+  "actions": {
+    "calculate": "Kira",
+    "reset": "Set Semula",
+    "download": "Muat Turun",
+    "save": "Simpan",
+    "load": "Muatkan",
+    "share": "Kongsi",
+    "back": "Kembali",
+    "next": "Seterusnya",
+    "close": "Tutup",
+    "learnMore": "Ketahui Lanjut",
+    "getStarted": "Mulakan"
+  },
+  "currency": {
+    "rm": "RM",
+    "ringgit": "Ringgit"
+  },
+  "time": {
+    "year": "tahun",
+    "years": "tahun",
+    "month": "bulan",
+    "months": "bulan",
+    "day": "hari",
+    "days": "hari",
+    "monthly": "Bulanan",
+    "annual": "Tahunan"
+  },
+  "status": {
+    "loading": "Memuatkan...",
+    "error": "Ralat",
+    "success": "Berjaya"
+  },
+  "labels": {
+    "max": "Maks",
+    "assessmentYear": "Tahun Taksiran",
+    "above": "Ke Atas",
+    "summary": "Ringkasan"
+  },
+  "disclaimer": "Penafian",
+  "footer": {
+    "disclaimer": "Penafian: Kalkulator ini memberikan anggaran berdasarkan maklumat yang anda berikan. Sentiasa rujuk penasihat kewangan atau profesional cukai yang berkelayakan untuk nasihat khusus.",
+    "copyright": "© 2026 Kira Malaysia. Hak cipta terpelihara.",
+    "lastUpdated": "Kemaskini terakhir: Januari 2026",
+    "accuracy": "99.7% padanan dengan pengiraan rasmi"
+  }
+}

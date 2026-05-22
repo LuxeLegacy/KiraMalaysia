@@ -1,0 +1,182 @@
+Now we turn your calculator into something that **follows the user home** 📬
+
+Not just a download button.
+A financial companion that lands in their inbox wearing a tailored suit.
+
+Below is the **Email Report Delivery module** you can append to your Bolt.new master build prompt.
+
+---
+
+# 📧 ADD-ON MODULE: Email EPF Retirement Report Delivery
+
+Add a secure email delivery system that allows users to receive their full EPF Retirement Projection Report directly in their inbox.
+
+This feature must feel trustworthy, compliant, and professional.
+
+---
+
+# 🎯 Objective
+
+Allow users to:
+
+* Enter email to receive report
+* Get PDF attached + summary in email body
+* Re-access report later
+* Share report easily
+
+---
+
+# 🧾 User Flow
+
+After calculation is completed:
+
+Display section:
+
+“Get Your EPF Report by Email”
+
+Fields:
+
+* Full Name (optional)
+* Email Address (required)
+* Checkbox:
+
+  * “Send me a copy of my EPF Retirement Report”
+  * “I agree to receive financial insights emails” (optional marketing opt-in)
+
+Primary button:
+“Send My Report”
+
+---
+
+# 🛠 System Behavior
+
+When user clicks “Send My Report”:
+
+1. Validate email format
+2. Generate PDF (same as downloadable version)
+3. Send email with:
+
+   * PDF attached
+   * Summary highlights in email body
+4. Show success confirmation message
+5. Log email delivery status
+
+---
+
+# 📩 Email Template Structure
+
+Subject Line Options:
+
+* Your EPF Retirement Projection Report (2026)
+* Your EPF Savings Analysis is Ready
+* Your Malaysia EPF Retirement Outlook
+
+---
+
+## Email Body Structure
+
+Professional, clean, trustworthy tone.
+
+Include:
+
+Greeting:
+Hi [Name],
+
+Summary Snapshot Section:
+
+* Projected Retirement Balance: RM XXXX
+* Total Contributions: RM XXXX
+* Estimated Monthly Retirement Income: RM XXXX
+* Years EPF May Last: XX years
+
+Key Insight Highlight:
+
+Example:
+“Adding RM300 monthly could increase your retirement savings by RMXXX.”
+
+CTA Button Inside Email:
+
+“Recalculate With Different Scenario”
+(Link back to your calculator with pre-filled parameters)
+
+Footer:
+
+* Disclaimer about projections
+* Data privacy statement
+* Unsubscribe link (if marketing opt-in enabled)
+
+---
+
+# 🔐 Security & Privacy Requirements
+
+* Do not permanently store salary unless user consents
+* Store only minimal data needed for email sending
+* Add privacy note below form
+* Use secure backend email API
+* Protect against spam abuse
+* Add rate limiting
+
+---
+
+# 🧠 Advanced Feature (Highly Recommended)
+
+Add option:
+
+“Save My Scenario”
+
+If checked:
+
+* Store scenario in database
+* Generate unique shareable link
+* Allow user to revisit calculation later
+
+This creates:
+
+* Return traffic
+* Bookmark behavior
+* Repeat engagement
+
+---
+
+# 📊 Backend Requirements
+
+* Use transactional email service (e.g., Resend, SendGrid, AWS SES)
+* Generate PDF server-side for consistency
+* Handle async email sending
+* Return success/failure status
+* Log timestamp of report generation
+
+---
+
+# 📈 Strategic Advantage
+
+This feature does 5 powerful things:
+
+1. Captures high-intent users
+2. Builds email list
+3. Increases trust
+4. Creates recurring traffic
+5. Makes your tool feel institutional-grade
+
+Most calculator sites stop at “Here’s your number.”
+
+You deliver:
+Here’s your plan. Here’s your report. Here’s your inbox copy.
+
+That changes perception completely.
+
+---
+
+# 🎨 UX Notes
+
+Make email section:
+
+* Clean
+* Not pushy
+* Positioned after results
+* Collapsible if user doesn’t want it
+
+Mobile optimized.
+
+---
+

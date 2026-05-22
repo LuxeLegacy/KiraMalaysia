@@ -1,0 +1,35 @@
+{
+  "year": 2026,
+  "currency": "MYR",
+  "residentBrackets": [
+    { "min": 0, "max": 5000, "rate": 0 },
+    { "min": 5000, "max": 20000, "rate": 1 },
+    { "min": 20000, "max": 35000, "rate": 3 },
+    { "min": 35000, "max": 50000, "rate": 8 },
+    { "min": 50000, "max": 70000, "rate": 13 },
+    { "min": 70000, "max": 100000, "rate": 21 },
+    { "min": 100000, "max": 250000, "rate": 24 },
+    { "min": 250000, "max": 400000, "rate": 25 },
+    { "min": 400000, "max": 600000, "rate": 26 },
+    { "min": 600000, "max": 2000000, "rate": 28 },
+    { "min": 2000000, "max": null, "rate": 30 }
+  ],
+  "nonResidentRate": 30,
+  "personalRelief": 9000,
+  "reliefLimits": {
+    "individual": 9000,
+    "spouse": 4000,
+    "child": 2000,
+    "childUnder18": 2000,
+    "epf": 4000,
+    "lifeInsurance": 3000,
+    "education": 7000,
+    "medical": 8000,
+    "lifestyle": 2500,
+    "socso": 350,
+    "disabledIndividual": 6000,
+    "disabledSpouse": 5000,
+    "parentMedical": 8000
+  },
+  "lastUpdated": "2026-01-01"
+}

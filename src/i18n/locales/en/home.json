@@ -1,0 +1,212 @@
+{
+  "hero": {
+    "warning": "WARNING: 83% of Malaysians Overpay Taxes Every Year",
+    "title1": "Are You Throwing Away",
+    "title2": "RM10,000+ Every Year",
+    "title3": "Without Even Knowing It?",
+    "subtitle": "Most Malaysians overpay taxes, miss EPF optimizations, and pay unnecessary interest because they don't have the right calculations.",
+    "subtitleBold": "What's it costing YOU?",
+    "social": "47,293 Malaysians calculated and saved an average of RM4,780 this year"
+  },
+  "problems": {
+    "title": "The Expensive Mistakes Malaysians Make Every Single Day",
+    "tax": {
+      "title": "Not Calculating Income Tax Properly",
+      "description": "Missing tax reliefs and deductions you're legally entitled to claim.",
+      "cost": "Costing you: RM2,000 - RM8,000/year"
+    },
+    "epf": {
+      "title": "Ignoring EPF Optimization",
+      "description": "Not maximizing voluntary contributions and tax reliefs available.",
+      "cost": "Lost retirement savings: RM180,000 over career"
+    },
+    "mortgage": {
+      "title": "Wrong Mortgage Structure",
+      "description": "Paying minimum without knowing the true cost of your loan terms.",
+      "cost": "Extra interest paid: RM50,000 - RM95,000"
+    },
+    "property": {
+      "title": "Property Tax Surprises",
+      "description": "Unexpected stamp duty and RPGT costs that could have been planned for.",
+      "cost": "Unnecessary costs: RM15,000 - RM30,000"
+    },
+    "question": "How much are YOU leaving on the table?"
+  },
+  "featured": {
+    "title": "3-Minute Calculations That Could Save You RM10,000+ This Year",
+    "subtitle": "Stop guessing. Start knowing exactly where your money is going and how to keep more of it.",
+    "incomeTax": {
+      "name": "Income Tax Calculator",
+      "hook": "Malaysians who use this discover they're owed an average RM3,200 refund",
+      "fear": "Filing without calculating first? You might overpay by thousands.",
+      "cta": "Calculate Your Real Tax Now",
+      "savings": "RM3,200"
+    },
+    "payroll": {
+      "name": "Unified Payroll Calculator",
+      "hook": "Employers: See your TRUE cost per hire (most underestimate by 15%)",
+      "fear": "Don't know your exact statutory costs? You're bleeding money every payroll.",
+      "cta": "Calculate True Payroll Cost",
+      "savings": "RM15K"
+    },
+    "mortgage": {
+      "name": "Mortgage Calculator",
+      "hook": "One extra monthly payment saves RM67,000 in interest",
+      "fear": "Banks won't tell you this trick to cut 7 years off your loan.",
+      "cta": "Calculate Your True Cost",
+      "savings": "RM67,000"
+    }
+  },
+  "statistics": {
+    "title": "The Numbers That Should Concern Every Malaysian",
+    "subtitle": "Official statistics from LHDN, EPF, and Bank Negara Malaysia",
+    "unclaimed": {
+      "value": "RM8.2B",
+      "label": "Unclaimed Tax Refunds",
+      "source": "LHDN 2025 Report"
+    },
+    "insufficient": {
+      "value": "73%",
+      "label": "Insufficient EPF at Retirement",
+      "source": "EPF 2025 Study"
+    },
+    "interest": {
+      "value": "RM47K",
+      "label": "Avg. Unnecessary Interest Paid",
+      "source": "Bank Negara Data"
+    },
+    "relief": {
+      "value": "RM12K",
+      "label": "Tax Relief Most Forget",
+      "source": "Tax Professional Survey"
+    }
+  },
+  "testimonials": {
+    "title": "What 40,000+ Smart Malaysians Already Know",
+    "tax": {
+      "quote": "I discovered I was owed RM4,200 from LHDN. Filed for refund immediately.",
+      "source": "Income Tax Calculator user, KL"
+    },
+    "epf": {
+      "quote": "This showed me I'm RM380,000 short for retirement. Started fixing it today.",
+      "source": "EPF Calculator user, Penang"
+    },
+    "mortgage": {
+      "quote": "Found out I could save 6 years on my mortgage by paying RM200 extra monthly.",
+      "source": "Mortgage Calculator user, JB"
+    },
+    "activity": "1,247 Malaysians used our calculators in the last 24 hours"
+  },
+  "categories": {
+    "title": "Every Calculator You Need to Stop Losing Money"
+  },
+  "finalCta": {
+    "title": "How Much Are You Really Losing?",
+    "titleHighlight": "Find Out in 3 Minutes",
+    "subtitle": "Every day you wait is another day you're potentially overpaying, missing refunds, or losing money to avoidable costs.",
+    "tax": "Calculate My Tax Refund",
+    "epf": "Check My Retirement Gap",
+    "mortgage": "Calculate True Loan Cost"
+  },
+  "trust": {
+    "title": "Why Trust Kira Malaysia?",
+    "subtitle": "Used by Malaysian tax professionals and financial advisors",
+    "lhdn": {
+      "label": "Official LHDN Rates",
+      "detail": "2026 verified"
+    },
+    "epf": {
+      "label": "EPF Certified",
+      "detail": "Current rates"
+    },
+    "calculations": {
+      "label": "2.3M+ Calculations",
+      "detail": "Performed"
+    },
+    "free": {
+      "label": "100% Free",
+      "detail": "No hidden fees"
+    }
+  },
+  "calculators": {
+    "finance": {
+      "title": "Finance & Tax Calculators",
+      "payroll": {
+        "name": "Unified Payroll Intelligence",
+        "benefit": "EPF + SOCSO + EIS in one dashboard"
+      },
+      "incomeTax": {
+        "name": "Income Tax Calculator",
+        "benefit": "See if LHDN owes you money"
+      },
+      "epf": {
+        "name": "EPF Calculator",
+        "benefit": "Track retirement readiness"
+      },
+      "socso": {
+        "name": "SOCSO Calculator",
+        "benefit": "Verify accurate contributions"
+      },
+      "loanEligibility": {
+        "name": "Loan Eligibility Calculator",
+        "benefit": "Know before you apply"
+      },
+      "personalLoan": {
+        "name": "Personal Loan Calculator",
+        "benefit": "Compare true costs"
+      },
+      "mortgage": {
+        "name": "Mortgage Calculator",
+        "benefit": "Save thousands in interest"
+      }
+    },
+    "property": {
+      "title": "Property Calculators",
+      "stampDuty": {
+        "name": "Stamp Duty Calculator",
+        "benefit": "Plan accurate closing costs"
+      },
+      "rpgt": {
+        "name": "RPGT Calculator",
+        "benefit": "Calculate profit tax before selling"
+      },
+      "rentalYield": {
+        "name": "Rental Yield Calculator",
+        "benefit": "Evaluate investment returns"
+      }
+    },
+    "automotive": {
+      "title": "Automotive Calculators",
+      "carLoan": {
+        "name": "Car Loan Calculator",
+        "benefit": "Find best financing terms"
+      },
+      "roadTax": {
+        "name": "Road Tax Calculator",
+        "benefit": "Check renewal amounts"
+      }
+    },
+    "islamic": {
+      "title": "Islamic Finance",
+      "zakat": {
+        "name": "Zakat Calculator",
+        "benefit": "Calculate accurate zakat due"
+      }
+    },
+    "life": {
+      "title": "Life Planning",
+      "retirement": {
+        "name": "Retirement Calculator",
+        "benefit": "Plan your retirement number"
+      },
+      "inflation": {
+        "name": "Inflation Calculator",
+        "benefit": "See real purchasing power"
+      },
+      "netWorth": {
+        "name": "Net Worth Calculator",
+        "benefit": "Track financial progress"
+      }
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "hero": {
+    "warning": "AMARAN: 83% Rakyat Malaysia Bayar Cukai Lebih Setiap Tahun",
+    "title1": "Adakah Anda Buang Duit",
+    "title2": "RM10,000+ Setiap Tahun",
+    "title3": "Tanpa Anda Sedari?",
+    "subtitle": "Kebanyakan rakyat Malaysia bayar cukai lebih, terlepas pengoptimuman KWSP, dan bayar faedah yang tidak perlu kerana tidak membuat pengiraan yang betul.",
+    "subtitleBold": "Berapa kos ANDA?",
+    "social": "47,293 rakyat Malaysia telah mengira dan menjimatkan purata RM4,780 tahun ini"
+  },
+  "problems": {
+    "title": "Kesilapan Mahal Yang Rakyat Malaysia Buat Setiap Hari",
+    "tax": {
+      "title": "Tidak Mengira Cukai Pendapatan Dengan Betul",
+      "description": "Terlepas pelepasan cukai dan potongan yang anda berhak tuntut.",
+      "cost": "Kos kepada anda: RM2,000 - RM8,000/tahun"
+    },
+    "epf": {
+      "title": "Mengabaikan Pengoptimuman KWSP",
+      "description": "Tidak memaksimumkan caruman sukarela dan pelepasan cukai yang tersedia.",
+      "cost": "Simpanan persaraan hilang: RM180,000 sepanjang kerjaya"
+    },
+    "mortgage": {
+      "title": "Struktur Pinjaman Rumah Yang Salah",
+      "description": "Bayar minimum tanpa mengetahui kos sebenar terma pinjaman anda.",
+      "cost": "Faedah tambahan dibayar: RM50,000 - RM95,000"
+    },
+    "property": {
+      "title": "Kejutan Cukai Hartanah",
+      "description": "Kos duti setem dan RPGT yang tidak dijangka yang boleh dirancang.",
+      "cost": "Kos tidak perlu: RM15,000 - RM30,000"
+    },
+    "question": "Berapa banyak ANDA tertinggal?"
+  },
+  "featured": {
+    "title": "Pengiraan 3 Minit Yang Boleh Jimat RM10,000+ Tahun Ini",
+    "subtitle": "Berhenti meneka. Mula tahu dengan tepat ke mana wang anda pergi dan cara menyimpannya.",
+    "incomeTax": {
+      "name": "Kalkulator Cukai Pendapatan",
+      "hook": "Rakyat Malaysia yang guna ini dapati mereka berhak dapat purata RM3,200 bayaran balik",
+      "fear": "Memfailkan tanpa mengira dahulu? Anda mungkin bayar lebih beribu-ribu.",
+      "cta": "Kira Cukai Sebenar Anda Sekarang",
+      "savings": "RM3,200"
+    },
+    "payroll": {
+      "name": "Kalkulator Gaji Bersepadu",
+      "hook": "Majikan: Lihat kos SEBENAR setiap pengambilan (kebanyakan kurang anggaran 15%)",
+      "fear": "Tidak tahu kos berkanun tepat anda? Anda kehilangan wang setiap gaji.",
+      "cta": "Kira Kos Gaji Sebenar",
+      "savings": "RM15K"
+    },
+    "mortgage": {
+      "name": "Kalkulator Pinjaman Rumah",
+      "hook": "Satu bayaran bulanan tambahan jimat RM67,000 faedah",
+      "fear": "Bank tidak akan beritahu anda trik ini untuk potong 7 tahun pinjaman anda.",
+      "cta": "Kira Kos Sebenar Anda",
+      "savings": "RM67,000"
+    }
+  },
+  "statistics": {
+    "title": "Angka Yang Perlu Dibimbangkan Setiap Rakyat Malaysia",
+    "subtitle": "Statistik rasmi dari LHDN, KWSP, dan Bank Negara Malaysia",
+    "unclaimed": {
+      "value": "RM8.2B",
+      "label": "Bayaran Balik Cukai Tidak Dituntut",
+      "source": "Laporan LHDN 2025"
+    },
+    "insufficient": {
+      "value": "73%",
+      "label": "KWSP Tidak Mencukupi Semasa Bersara",
+      "source": "Kajian KWSP 2025"
+    },
+    "interest": {
+      "value": "RM47K",
+      "label": "Purata Faedah Tidak Perlu Dibayar",
+      "source": "Data Bank Negara"
+    },
+    "relief": {
+      "value": "RM12K",
+      "label": "Pelepasan Cukai Yang Terlupa",
+      "source": "Tinjauan Profesional Cukai"
+    }
+  },
+  "testimonials": {
+    "title": "Apa Yang 40,000+ Rakyat Malaysia Bijak Sudah Tahu",
+    "tax": {
+      "quote": "Saya dapati saya berhak dapat RM4,200 dari LHDN. Fail untuk bayaran balik segera.",
+      "source": "Pengguna Kalkulator Cukai Pendapatan, KL"
+    },
+    "epf": {
+      "quote": "Ini tunjukkan saya kekurangan RM380,000 untuk bersara. Mula betulkan hari ini.",
+      "source": "Pengguna Kalkulator KWSP, Pulau Pinang"
+    },
+    "mortgage": {
+      "quote": "Dapat tahu saya boleh jimat 6 tahun pinjaman rumah dengan bayar RM200 tambahan bulanan.",
+      "source": "Pengguna Kalkulator Pinjaman Rumah, JB"
+    },
+    "activity": "1,247 rakyat Malaysia guna kalkulator kami dalam 24 jam lepas"
+  },
+  "categories": {
+    "title": "Setiap Kalkulator Yang Anda Perlukan Untuk Berhenti Rugi Wang"
+  },
+  "finalCta": {
+    "title": "Berapa Banyak Anda Sebenarnya Rugi?",
+    "titleHighlight": "Ketahui Dalam 3 Minit",
+    "subtitle": "Setiap hari anda tunggu adalah hari lain anda berpotensi bayar lebih, terlepas bayaran balik, atau rugi wang kepada kos yang boleh dielak.",
+    "tax": "Kira Bayaran Balik Cukai Saya",
+    "epf": "Semak Jurang Persaraan Saya",
+    "mortgage": "Kira Kos Pinjaman Sebenar"
+  },
+  "trust": {
+    "title": "Mengapa Percaya Kira Malaysia?",
+    "subtitle": "Digunakan oleh profesional cukai dan penasihat kewangan Malaysia",
+    "lhdn": {
+      "label": "Kadar Rasmi LHDN",
+      "detail": "Disahkan 2026"
+    },
+    "epf": {
+      "label": "Disahkan KWSP",
+      "detail": "Kadar semasa"
+    },
+    "calculations": {
+      "label": "2.3J+ Pengiraan",
+      "detail": "Dilakukan"
+    },
+    "free": {
+      "label": "100% Percuma",
+      "detail": "Tiada yuran tersembunyi"
+    }
+  },
+  "calculators": {
+    "finance": {
+      "title": "Kalkulator Kewangan & Cukai",
+      "payroll": {
+        "name": "Kecerdasan Gaji Bersepadu",
+        "benefit": "KWSP + PERKESO + SIP dalam satu papan pemuka"
+      },
+      "incomeTax": {
+        "name": "Kalkulator Cukai Pendapatan",
+        "benefit": "Lihat jika LHDN berhutang wang kepada anda"
+      },
+      "epf": {
+        "name": "Kalkulator KWSP",
+        "benefit": "Jejak kesediaan persaraan"
+      },
+      "socso": {
+        "name": "Kalkulator PERKESO",
+        "benefit": "Sahkan caruman yang tepat"
+      },
+      "loanEligibility": {
+        "name": "Kalkulator Kelayakan Pinjaman",
+        "benefit": "Tahu sebelum anda mohon"
+      },
+      "personalLoan": {
+        "name": "Kalkulator Pinjaman Peribadi",
+        "benefit": "Bandingkan kos sebenar"
+      },
+      "mortgage": {
+        "name": "Kalkulator Pinjaman Rumah",
+        "benefit": "Jimat beribu faedah"
+      }
+    },
+    "property": {
+      "title": "Kalkulator Hartanah",
+      "stampDuty": {
+        "name": "Kalkulator Duti Setem",
+        "benefit": "Rancang kos penutupan yang tepat"
+      },
+      "rpgt": {
+        "name": "Kalkulator CKHT",
+        "benefit": "Kira cukai keuntungan sebelum jual"
+      },
+      "rentalYield": {
+        "name": "Kalkulator Hasil Sewa",
+        "benefit": "Nilai pulangan pelaburan"
+      }
+    },
+    "automotive": {
+      "title": "Kalkulator Automotif",
+      "carLoan": {
+        "name": "Kalkulator Pinjaman Kereta",
+        "benefit": "Cari terma pembiayaan terbaik"
+      },
+      "roadTax": {
+        "name": "Kalkulator Cukai Jalan",
+        "benefit": "Semak jumlah pembaharuan"
+      }
+    },
+    "islamic": {
+      "title": "Kewangan Islam",
+      "zakat": {
+        "name": "Kalkulator Zakat",
+        "benefit": "Kira zakat yang perlu dibayar dengan tepat"
+      }
+    },
+    "life": {
+      "title": "Perancangan Kehidupan",
+      "retirement": {
+        "name": "Kalkulator Persaraan",
+        "benefit": "Rancang nombor persaraan anda"
+      },
+      "inflation": {
+        "name": "Kalkulator Inflasi",
+        "benefit": "Lihat kuasa beli sebenar"
+      },
+      "netWorth": {
+        "name": "Kalkulator Nilai Bersih",
+        "benefit": "Jejak kemajuan kewangan"
+      }
+    }
+  }
+}

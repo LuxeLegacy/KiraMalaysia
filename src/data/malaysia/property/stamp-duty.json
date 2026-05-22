@@ -1,0 +1,20 @@
+{
+  "year": 2026,
+  "currency": "MYR",
+  "brackets": [
+    { "min": 0, "max": 100000, "rate": 1, "fixedAmount": 0 },
+    { "min": 100000, "max": 500000, "rate": 2, "fixedAmount": 0 },
+    { "min": 500000, "max": 1000000, "rate": 3, "fixedAmount": 0 },
+    { "min": 1000000, "max": null, "rate": 4, "fixedAmount": 0 }
+  ],
+  "exemptions": {
+    "firstTimeBuyer": {
+      "enabled": true,
+      "maxPrice": 500000,
+      "exemptionAmount": 0,
+      "description": "First-time home buyers exempted on properties up to RM500,000"
+    }
+  },
+  "description": "Stamp duty rates for property transactions in Malaysia",
+  "lastUpdated": "2026-01-01"
+}

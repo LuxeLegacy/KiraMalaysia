@@ -1,0 +1,267 @@
+Good. The current version is a calculator postcard.
+We’re going to build a financial cockpit. 🧭📊
+
+Below is a **complete, advanced, production-grade Income Tax Calculator Malaysia master prompt** for Bolt.new.
+
+This will force Bolt to build something superior to generic calculator sites.
+
+Copy everything below into Bolt.new.
+
+---
+
+# MASTER PROMPT — ADVANCED INCOME TAX CALCULATOR MALAYSIA 2026
+
+Project: Income Tax Calculator Malaysia 2026 (Advanced Version)
+
+---
+
+## OBJECTIVE
+
+Build a premium, fully featured Malaysian Income Tax Calculator that:
+
+• Uses progressive tax brackets
+• Supports tax relief inputs
+• Calculates chargeable income
+• Displays full bracket breakdown
+• Calculates effective tax rate
+• Estimates monthly PCB
+• Supports resident and non-resident logic
+• Shows scenario comparison
+• Generates downloadable summary
+• Is SEO optimized
+• Is JSON-driven (no hardcoded rates)
+
+This must not be a basic income × rate calculator.
+
+---
+
+# TECH REQUIREMENTS
+
+• Next.js 14 (App Router)
+• TypeScript
+• Tailwind CSS
+• Server component default
+• JSON-based tax bracket configuration
+• Modular tax engine in `/lib/progressive-tax.ts`
+
+---
+
+# DATA SOURCE STRUCTURE
+
+Create:
+
+```
+/data/malaysia/finance/income-tax-2026.json
+```
+
+JSON structure:
+
+```
+{
+  "year": 2026,
+  "residentBrackets": [
+    { "min": 0, "max": 5000, "rate": 0 },
+    { "min": 5001, "max": 20000, "rate": 1 },
+    { "min": 20001, "max": 35000, "rate": 3 },
+    { "min": 35001, "max": 50000, "rate": 8 },
+    { "min": 50001, "max": 70000, "rate": 13 },
+    { "min": 70001, "max": 100000, "rate": 21 },
+    { "min": 100001, "max": 250000, "rate": 24 },
+    { "min": 250001, "max": 400000, "rate": 25 },
+    { "min": 400001, "max": 600000, "rate": 26 },
+    { "min": 600001, "max": 2000000, "rate": 28 },
+    { "min": 2000001, "max": null, "rate": 30 }
+  ],
+  "nonResidentRate": 30,
+  "personalRelief": 9000
+}
+```
+
+Tax engine must dynamically read this JSON.
+
+---
+
+# INPUT FIELDS (ADVANCED)
+
+User must be able to input:
+
+### Basic Info
+
+• Annual Gross Income
+• Employment Type (Employed / Self-Employed)
+• Residency Status (Resident / Non-Resident)
+
+### Mandatory Relief
+
+• EPF Contribution
+• SOCSO
+• Insurance Premium
+• Lifestyle Relief
+• Education Fees
+• Medical Expenses
+• Zakat Paid
+
+### Optional
+
+• Spouse Relief
+• Child Relief (number of children)
+• Disabled Relief
+
+---
+
+# CALCULATION FLOW
+
+1. Calculate Total Reliefs
+2. Compute Chargeable Income
+   Gross Income – Total Reliefs
+3. Apply progressive brackets (resident)
+4. Apply flat 30% if non-resident
+5. Compute:
+   • Total Tax
+   • Effective Tax Rate
+   • Monthly PCB Estimate (Total Tax ÷ 12)
+6. Deduct Zakat (if applicable)
+7. Show Final Tax Payable
+
+All logic must be modular and reusable.
+
+---
+
+# RESULT DISPLAY (MUST BE PREMIUM)
+
+Display:
+
+## 1️⃣ Summary Card
+
+• Gross Income
+• Total Relief
+• Chargeable Income
+• Total Tax
+• Effective Rate
+• Monthly PCB
+
+---
+
+## 2️⃣ Progressive Tax Breakdown Table
+
+Columns:
+Bracket Range
+Taxable Amount in Bracket
+Rate
+Tax Paid in Bracket
+
+---
+
+## 3️⃣ Visual Tax Distribution Bar
+
+Show:
+• Income kept
+• Tax paid
+
+---
+
+## 4️⃣ Scenario Comparison Tool
+
+Allow user to:
+
+Toggle:
+“With Relief vs Without Relief”
+
+Display tax savings difference.
+
+---
+
+# ADVANCED FEATURES (STANDOUT DIFFERENTIATION)
+
+Add:
+
+• “What If I Increase EPF?” slider
+• Real-time recalculation
+• Highlight marginal tax bracket
+• Tooltip explanations for each bracket
+• Downloadable PDF summary
+• Copy shareable result link
+
+---
+
+# SEO REQUIREMENTS
+
+Page URL:
+`/finance/income-tax-calculator-malaysia`
+
+Include:
+
+• Dynamic title:
+“Income Tax Calculator Malaysia 2026 – With Relief & PCB Estimate”
+
+• Meta description under 155 characters
+• FAQ schema (5 questions)
+• Breadcrumb schema
+• 1000+ word explanation section
+• “Last Updated” badge
+
+Reference official authority in content:
+Lembaga Hasil Dalam Negeri Malaysia
+
+But do not claim affiliation.
+
+---
+
+# DESIGN REQUIREMENTS
+
+• Professional financial UI
+• Card-based layout
+• Sticky result panel on desktop
+• Smooth transitions
+• Clean MYR formatting
+• Blue accent color
+• Mobile first
+
+This must feel like fintech, not a blog plugin.
+
+---
+
+# PERFORMANCE RULES
+
+• No unnecessary client-side heavy libraries
+• Optimize calculations server-side where possible
+• Keep bundle size small
+• Fast first paint
+
+---
+
+# OUTPUT REQUIREMENT
+
+Generate:
+
+• Full page code
+• Progressive tax engine utility
+• JSON rate file
+• All components
+• Breakdown table
+• Scenario comparison logic
+• PDF export scaffold
+• SEO metadata logic
+
+Do not simplify.
+Do not omit features.
+Build production-ready structure.
+
+---
+
+END OF PROMPT
+
+---
+
+If this is built properly, your calculator will feel:
+
+Less like a calculator
+More like a personal tax simulator.
+
+Next, we can:
+
+• Design tax relief limits properly
+• Or build the EPF + PCB integration layer
+• Or create the tax saving optimization engine
+
+What level do we upgrade next? 📊🔥

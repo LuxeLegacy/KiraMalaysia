@@ -1,0 +1,367 @@
+{
+  "epf": {
+    "title": "EPF Calculator Malaysia 2026",
+    "subtitle": "Calculate your EPF retirement savings and track your future wealth",
+    "description": "Calculate your Employee Provident Fund (EPF/KWSP) contributions, project your retirement savings, and plan for financial security."
+  },
+  "incomeTax": {
+    "title": "Income Tax Calculator Malaysia 2026",
+    "subtitle": "Calculate your income tax with 2026 LHDN rates",
+    "description": "Calculate your Malaysian income tax based on LHDN 2026 tax rates, including all tax reliefs and deductions."
+  },
+  "socso": {
+    "title": "SOCSO Calculator Malaysia 2026",
+    "subtitle": "Calculate SOCSO contributions for employees and employers",
+    "description": "Calculate PERKESO (Social Security Organization) contributions for both employees and employers."
+  },
+  "mortgage": {
+    "title": "Mortgage Calculator Malaysia 2026",
+    "subtitle": "Calculate monthly payments, total interest, and amortization schedule",
+    "description": "Calculate your home loan monthly payment, total interest cost, and view complete amortization schedule."
+  },
+  "carLoan": {
+    "title": "Car Loan Calculator Malaysia 2026",
+    "subtitle": "Calculate car loan payments and compare financing options",
+    "description": "Calculate your car loan installment, compare different loan tenures, and find the best financing option."
+  },
+  "roadTax": {
+    "title": "Road Tax Calculator Malaysia 2026",
+    "subtitle": "Calculate road tax renewal amount for your vehicle",
+    "description": "Calculate road tax renewal fees for cars and motorcycles in Malaysia based on engine capacity."
+  },
+  "stampDuty": {
+    "title": "Stamp Duty Calculator Malaysia 2026",
+    "subtitle": "Calculate stamp duty for property transactions",
+    "description": "Calculate stamp duty for property purchase, loan agreement, and memorandum of transfer."
+  },
+  "rpgt": {
+    "title": "RPGT Calculator Malaysia 2026",
+    "subtitle": "Calculate Real Property Gains Tax on property sale",
+    "description": "Calculate Real Property Gains Tax (RPGT/CKHT) based on holding period and property gains."
+  },
+  "zakat": {
+    "title": "Zakat Calculator Malaysia 2026",
+    "subtitle": "Calculate zakat on income, savings, and wealth",
+    "description": "Calculate zakat on income, savings, gold, silver, and business wealth according to Islamic principles."
+  },
+  "retirement": {
+    "title": "Retirement Calculator Malaysia 2026",
+    "subtitle": "Plan your retirement and calculate how much you need",
+    "description": "Plan your retirement by calculating how much you need to save and project your retirement fund growth."
+  },
+  "payroll": {
+    "title": "Unified Payroll Calculator Malaysia 2026",
+    "subtitle": "Calculate EPF, SOCSO, EIS, and PCB in one place",
+    "description": "All-in-one payroll calculator for EPF, SOCSO, EIS contributions and PCB tax deductions."
+  },
+  "personalLoan": {
+    "title": "Personal Loan Calculator Malaysia 2026",
+    "subtitle": "Calculate personal loan installments and total cost",
+    "description": "Calculate monthly installment, total interest, and repayment schedule for personal loans."
+  },
+  "loanEligibility": {
+    "title": "Loan Eligibility Calculator Malaysia 2026",
+    "subtitle": "Check how much loan you can afford",
+    "description": "Calculate your maximum loan eligibility based on income and Debt Service Ratio (DSR)."
+  },
+  "rentalYield": {
+    "title": "Rental Yield Calculator Malaysia 2026",
+    "subtitle": "Calculate property rental returns and ROI",
+    "description": "Calculate gross and net rental yield, cash flow, and return on investment for rental properties."
+  },
+  "netWorth": {
+    "title": "Net Worth Calculator Malaysia 2026",
+    "subtitle": "Track your total assets and liabilities",
+    "description": "Calculate your net worth by totaling assets and subtracting liabilities."
+  },
+  "inflation": {
+    "title": "Inflation Calculator Malaysia 2026",
+    "subtitle": "Calculate the impact of inflation on purchasing power",
+    "description": "Understand how inflation affects your money's value over time and future purchasing power."
+  },
+  "pcb": {
+    "title": "PCB Calculator Malaysia 2026",
+    "subtitle": "Calculate monthly tax deduction from salary",
+    "description": "Calculate Monthly Tax Deduction (Potongan Cukai Bulanan/PCB) based on your salary and reliefs."
+  },
+  "netSalary": {
+    "title": "Net Salary Calculator Malaysia 2026",
+    "subtitle": "Calculate your take-home pay after all deductions",
+    "description": "Calculate your net salary after EPF, SOCSO, EIS, and PCB deductions."
+  },
+  "grossToNet": {
+    "title": "Gross to Net Calculator Malaysia 2026",
+    "subtitle": "Convert gross salary to net take-home pay",
+    "description": "Convert your gross monthly salary to net take-home pay after statutory deductions."
+  },
+  "takeHomePay": {
+    "title": "Take Home Pay Calculator Malaysia 2026",
+    "subtitle": "Calculate actual salary you receive",
+    "description": "Calculate your actual take-home pay after all mandatory deductions and taxes."
+  },
+  "bonusTax": {
+    "title": "Bonus Tax Calculator Malaysia 2026",
+    "subtitle": "Calculate tax on your annual bonus",
+    "description": "Calculate the tax impact of your bonus and see how it affects your overall tax liability."
+  },
+  "13thMonthSalary": {
+    "title": "13th Month Salary Tax Calculator Malaysia 2026",
+    "subtitle": "Calculate tax on 13th month salary payment",
+    "description": "Calculate PCB and annual tax impact of your 13th month salary or annual bonus."
+  },
+  "overtimeTax": {
+    "title": "Overtime Tax Calculator Malaysia 2026",
+    "subtitle": "Calculate tax on overtime earnings",
+    "description": "Calculate how overtime pay affects your monthly PCB and annual tax liability."
+  },
+  "commissionTax": {
+    "title": "Commission Tax Calculator Malaysia 2026",
+    "subtitle": "Calculate tax on commission income",
+    "description": "Calculate PCB and tax liability for sales commission and variable income."
+  },
+  "annualTax": {
+    "title": "Annual Tax Calculator Malaysia 2026",
+    "subtitle": "Calculate your total annual tax liability",
+    "description": "Calculate your complete annual income tax including all income sources and reliefs."
+  },
+  "monthlyTaxPlanner": {
+    "title": "Monthly Tax Planner Malaysia 2026",
+    "subtitle": "Plan your monthly tax provisions",
+    "description": "Plan and track your monthly tax provisions to avoid year-end surprises."
+  },
+  "taxRelief": {
+    "title": "Tax Relief Calculator Malaysia 2026",
+    "subtitle": "Calculate all eligible tax reliefs",
+    "description": "Calculate and maximize all available tax reliefs including EPF, insurance, education, and lifestyle."
+  },
+  "epfTaxRelief": {
+    "title": "EPF Tax Relief Calculator Malaysia 2026",
+    "subtitle": "Calculate tax savings from EPF contributions",
+    "description": "Calculate tax relief and savings from Employee Provident Fund voluntary contributions."
+  },
+  "prsTaxRelief": {
+    "title": "PRS Tax Relief Calculator Malaysia 2026",
+    "subtitle": "Calculate tax relief from PRS contributions",
+    "description": "Calculate tax relief from Private Retirement Scheme (PRS) contributions up to RM3,000."
+  },
+  "lifestyleRelief": {
+    "title": "Lifestyle Relief Calculator Malaysia 2026",
+    "subtitle": "Calculate tax relief on lifestyle expenses",
+    "description": "Calculate lifestyle tax relief for gym, sports equipment, books, and internet subscriptions."
+  },
+  "insuranceRelief": {
+    "title": "Insurance Relief Calculator Malaysia 2026",
+    "subtitle": "Calculate tax relief on insurance premiums",
+    "description": "Calculate tax relief for life insurance and EPF insurance premiums."
+  },
+  "zakatTaxRebate": {
+    "title": "Zakat Tax Rebate Calculator Malaysia 2026",
+    "subtitle": "Calculate tax rebate from zakat payments",
+    "description": "Calculate how zakat payments reduce your final tax payable as a direct rebate."
+  },
+  "taxBracket": {
+    "title": "Tax Bracket Calculator Malaysia 2026",
+    "subtitle": "Find your income tax bracket",
+    "description": "Determine which tax bracket you fall into and your marginal tax rate."
+  },
+  "marginalTaxRate": {
+    "title": "Marginal Tax Rate Calculator Malaysia 2026",
+    "subtitle": "Calculate your marginal tax rate",
+    "description": "Calculate the tax rate you pay on your last ringgit of income."
+  },
+  "effectiveTaxRate": {
+    "title": "Effective Tax Rate Calculator Malaysia 2026",
+    "subtitle": "Calculate your average tax rate",
+    "description": "Calculate your effective (average) tax rate across all income."
+  },
+  "nextRinggitTaxed": {
+    "title": "Next Ringgit Taxed Calculator Malaysia 2026",
+    "subtitle": "See tax on your next ringgit earned",
+    "description": "Calculate how much tax you'll pay on the next ringgit you earn."
+  },
+  "salaryIncrementTax": {
+    "title": "Salary Increment Tax Impact Malaysia 2026",
+    "subtitle": "Calculate tax impact of salary increase",
+    "description": "See how a salary raise affects your taxes and actual take-home increase."
+  },
+  "raiseNegotiation": {
+    "title": "Raise Negotiation Calculator Malaysia 2026",
+    "subtitle": "Calculate net benefit of salary raise",
+    "description": "Calculate the actual take-home increase after taxes when negotiating a raise."
+  },
+  "jobSwitchTax": {
+    "title": "Job Switch Tax Calculator Malaysia 2026",
+    "subtitle": "Compare tax impact when changing jobs",
+    "description": "Calculate and compare tax implications when switching jobs mid-year."
+  },
+  "newJobPcb": {
+    "title": "New Job PCB Estimator Malaysia 2026",
+    "subtitle": "Estimate PCB for your new job",
+    "description": "Estimate Monthly Tax Deduction (PCB) when starting a new job."
+  },
+  "resignationMonthTax": {
+    "title": "Resignation Month Tax Calculator Malaysia 2026",
+    "subtitle": "Calculate tax impact of resignation timing",
+    "description": "Calculate how the month you resign affects your annual tax and final settlement."
+  },
+  "companyAVsB": {
+    "title": "Company A vs B Salary Comparison Malaysia 2026",
+    "subtitle": "Compare job offers after tax",
+    "description": "Compare two job offers by calculating net take-home pay after all deductions and taxes."
+  },
+  "bonusVsSalary": {
+    "title": "Bonus vs Salary Comparison Malaysia 2026",
+    "subtitle": "Compare bonus structure vs salary increase",
+    "description": "Compare the tax efficiency of receiving a bonus versus equivalent salary increase."
+  },
+  "salaryOffernet": {
+    "title": "Salary Offer Net Calculator Malaysia 2026",
+    "subtitle": "Calculate net value of job offer",
+    "description": "Calculate the actual net take-home value of a job offer including all benefits."
+  },
+  "payslipBreakdown": {
+    "title": "Payslip Breakdown Calculator Malaysia 2026",
+    "subtitle": "Understand your payslip deductions",
+    "description": "Break down and understand all components of your monthly payslip."
+  },
+  "mtd": {
+    "title": "MTD Calculator Malaysia 2026",
+    "subtitle": "Calculate Monthly Tax Deduction",
+    "description": "Calculate your Monthly Tax Deduction (MTD) also known as PCB."
+  },
+  "ytdTaxTracker": {
+    "title": "YTD Tax Tracker Malaysia 2026",
+    "subtitle": "Track year-to-date tax payments",
+    "description": "Track your year-to-date income and tax deductions to project final tax liability."
+  },
+  "monthlyToAnnual": {
+    "title": "Monthly to Annual Tax Converter Malaysia 2026",
+    "subtitle": "Convert monthly PCB to annual tax",
+    "description": "Convert monthly PCB deductions to annual tax liability projection."
+  },
+  "monthlyIncomeProjection": {
+    "title": "Monthly Income Projection Malaysia 2026",
+    "subtitle": "Project annual income from monthly salary",
+    "description": "Project your annual income and tax based on monthly salary and bonuses."
+  },
+  "taxProvision": {
+    "title": "Tax Provision Calculator Malaysia 2026",
+    "subtitle": "Calculate monthly tax provision needed",
+    "description": "Calculate how much to set aside monthly for annual tax filing."
+  },
+  "taxRefund": {
+    "title": "Tax Refund Calculator Malaysia 2026",
+    "subtitle": "Calculate expected tax refund or balance",
+    "description": "Calculate if you'll get a tax refund or need to pay additional tax."
+  },
+  "overUnderMtd": {
+    "title": "Over/Under MTD Detector Malaysia 2026",
+    "subtitle": "Check if PCB deduction is correct",
+    "description": "Detect if your monthly tax deduction is too high or too low compared to actual liability."
+  },
+  "nonResidentTax": {
+    "title": "Non-Resident Tax Calculator Malaysia 2026",
+    "subtitle": "Calculate tax for non-residents",
+    "description": "Calculate income tax for non-residents at the flat 30% rate."
+  },
+  "residentVsNonresident": {
+    "title": "Resident vs Non-Resident Tax Comparison Malaysia 2026",
+    "subtitle": "Compare resident and non-resident tax rates",
+    "description": "Compare tax liability between resident and non-resident status."
+  },
+  "residencyDays": {
+    "title": "Residency Days Calculator Malaysia 2026",
+    "subtitle": "Calculate tax residency status",
+    "description": "Calculate if you qualify as a tax resident based on days in Malaysia."
+  },
+  "expatNetPay": {
+    "title": "Expat Net Pay Calculator Malaysia 2026",
+    "subtitle": "Calculate expatriate net salary",
+    "description": "Calculate net pay for expatriates including tax considerations and allowances."
+  },
+  "employerTaxBorne": {
+    "title": "Employer Tax Borne Calculator Malaysia 2026",
+    "subtitle": "Calculate employer-borne tax benefit",
+    "description": "Calculate the value when employer pays your income tax (tax-borne arrangement)."
+  },
+  "salaryPackaging": {
+    "title": "Salary Packaging Tax Impact Malaysia 2026",
+    "subtitle": "Optimize salary package structure",
+    "description": "Optimize your compensation package by understanding tax treatment of different components."
+  },
+  "allowanceTaxability": {
+    "title": "Allowance Taxability Checker Malaysia 2026",
+    "subtitle": "Check if allowances are taxable",
+    "description": "Check which allowances and benefits are taxable under Malaysian tax law."
+  },
+  "freelancerTax": {
+    "title": "Freelancer Tax Calculator Malaysia 2026",
+    "subtitle": "Calculate tax for self-employed income",
+    "description": "Calculate income tax for freelancers and self-employed individuals."
+  },
+  "sideIncomeTax": {
+    "title": "Side Income Tax Set-Aside Malaysia 2026",
+    "subtitle": "Calculate tax provision for side income",
+    "description": "Calculate how much to set aside for taxes on freelance and side income."
+  },
+  "rentalIncomeTax": {
+    "title": "Rental Income Tax Calculator Malaysia 2026",
+    "subtitle": "Calculate tax on rental income",
+    "description": "Calculate income tax on property rental income with allowable deductions."
+  },
+  "grabDriverTax": {
+    "title": "Grab Driver Tax Calculator Malaysia 2026",
+    "subtitle": "Calculate tax for Grab drivers",
+    "description": "Calculate income tax for Grab drivers considering expenses and deductions."
+  },
+  "shopeeSellerTax": {
+    "title": "Shopee Seller Tax Calculator Malaysia 2026",
+    "subtitle": "Calculate tax for e-commerce sellers",
+    "description": "Calculate income tax for Shopee and e-commerce sellers."
+  },
+  "tp3Income": {
+    "title": "TP3 Income Calculator Malaysia 2026",
+    "subtitle": "Calculate income for PCB TP3 form",
+    "description": "Calculate total income for completing PCB TP3 form at new employment."
+  },
+  "unpaidLeaveTax": {
+    "title": "Unpaid Leave Tax Impact Malaysia 2026",
+    "subtitle": "Calculate tax impact of unpaid leave",
+    "description": "Calculate how unpaid leave affects your annual income and tax liability."
+  },
+  "warnings": {
+    "loanRejection": "69% of loan applications get rejected. Don't waste 3 months finding out you can't borrow.",
+    "loanRejectionBody": "The heartbreaking pattern: Malaysians find their dream home, negotiate the price, pay booking fees... then get loan rejection. Banks use the 70% DSR rule. If your debts exceed 70% of income, you're automatically rejected.",
+    "loanRejectionCTA": "Use this calculator BEFORE you house hunt. Know your EXACT borrowing limit. Don't fall in love with a RM800,000 property when you can only borrow RM450,000. Calculate your eligibility in 60 seconds."
+  },
+  "content": {
+    "loanEligibilityUnderstanding": "Understanding Loan Eligibility and DSR in Malaysia",
+    "loanEligibilityPara1": "The Debt Service Ratio (DSR) is the primary metric Malaysian banks use to assess your ability to service additional debt. It represents the percentage of your gross monthly income used to pay all debt obligations. Bank Negara Malaysia guidelines typically limit DSR to a maximum of 70%, though some banks may be more conservative. A DSR calculation considers all your existing loans including home loans, car loans, personal loans, and credit card balances.",
+    "loanEligibilityPara2": "Understanding your DSR is crucial before applying for any loan. If your DSR is already at 70%, you will not qualify for additional financing regardless of your income level. This is why financial planning and debt management are essential. Many people are surprised to learn they cannot borrow as much as they expected because existing commitments have already consumed their borrowing capacity.",
+    "loanEligibilityPara3": "When calculating DSR, banks look at gross income (before deductions like EPF, SOCSO, and taxes) but consider your net obligations. If you have variable income from commissions or bonuses, banks typically average these over 6-12 months. For self-employed individuals, banks review tax returns and financial statements from the past 2-3 years to determine sustainable income levels.",
+    "loanEligibilityPara4": "The maximum loan amount is calculated using the present value of an annuity formula, considering your available monthly payment capacity, interest rate, and loan tenure. A longer tenure allows you to borrow more with the same monthly payment, but you'll pay significantly more interest over time. For example, at 4.5% interest, extending from 20 to 30 years might increase borrowing capacity by 25% but nearly doubles total interest paid.",
+    "loanEligibilityPara5": "Beyond DSR, banks consider other factors: credit score (CCRIS and CTOS reports), employment stability, age (loans must typically be repaid by age 65-70), loan-to-value ratio (LTV), and the type of property or asset being financed. Even with good DSR, poor credit history or unstable employment can result in loan rejection or higher interest rates. Maintaining good financial health across all these dimensions maximizes your borrowing power and secures favorable terms."
+  },
+  "faq": {
+    "loanEligibility": {
+      "q1": "What is DSR and how does it affect loan eligibility?",
+      "a1": "Debt Service Ratio (DSR) is the percentage of your monthly income used to service debt obligations. Malaysian banks typically require DSR to be below 70%. A lower DSR indicates better financial health and increases your chances of loan approval with favorable terms.",
+      "q2": "What counts as existing commitments for DSR calculation?",
+      "a2": "Existing commitments include all monthly debt obligations such as home loans, car loans, personal loans, credit card installments, and education loans. Even if you're a guarantor for someone else's loan, banks may include a portion of that loan in your DSR calculation.",
+      "q3": "How can I improve my loan eligibility?",
+      "a3": "To improve eligibility, increase your income through salary raises or additional income sources, reduce existing debts by paying off smaller loans first, maintain a good credit score by paying bills on time, and consider a longer loan tenure to reduce monthly payments (though this increases total interest).",
+      "q4": "Can I borrow more if I have a higher income?",
+      "a4": "Yes, higher income generally allows higher loan amounts as long as your DSR remains within limits. However, banks also consider other factors like employment stability, credit history, age, and the loan-to-value ratio. A high income alone doesn't guarantee maximum loan approval.",
+      "q5": "What if my DSR is above 70%?",
+      "a5": "If your DSR exceeds 70%, most banks will not approve additional loans. Options include paying down existing debts to reduce commitments, finding a co-borrower to increase combined income, increasing your down payment to reduce loan amount needed, or waiting to improve your financial situation before applying."
+    }
+  },
+  "cta": {
+    "loanOffers": "Ready to Apply for a Loan?",
+    "loanOffersDesc": "Compare loan offers from multiple banks to find the best rates and terms that match your eligibility. Get personalized advice from financial experts.",
+    "loanOffersButton": "Compare Loan Offers"
+  },
+  "disclaimer": {
+    "general": "This calculator is for estimation purposes only and is not affiliated with any financial institution. Actual loan eligibility depends on multiple factors including credit history, employment status, and bank-specific policies. Consult with licensed financial advisors or banks for accurate assessments."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "year": 2026,
+  "currency": "MYR",
+  "rates": {
+    "employee": {
+      "under60": 11,
+      "age60to75": 5.5,
+      "above75": 0
+    },
+    "employer": {
+      "under60_lowSalary": 13,
+      "under60_highSalary": 12,
+      "age60to75": 6.5,
+      "above75": 0
+    }
+  },
+  "salaryThreshold": 5000,
+  "wageCeiling": null,
+  "dividendRate": {
+    "conventional": 5.5,
+    "shariah": 5.0
+  },
+  "description": "Employee Provident Fund contribution rates for Malaysia. Employer rate is 13% for salary < RM5,000, 12% for salary >= RM5,000",
+  "lastUpdated": "2026-01-01"
+}

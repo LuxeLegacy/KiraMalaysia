@@ -1,0 +1,44 @@
+{
+  "name": "Employment Insurance System (EIS)",
+  "authority": "PERKESO / SOCSO",
+  "effectiveDate": "2026-01-01",
+  "description": "EIS provides financial support and reemployment assistance to insured persons who lost employment.",
+  "rates": {
+    "employee": 0.002,
+    "employer": 0.002
+  },
+  "wageCeiling": 4000,
+  "wageFloor": 30,
+  "coverage": {
+    "description": "All employees aged 18-60 earning up to RM4,000 per month",
+    "benefits": {
+      "jobSearchAllowance": {
+        "description": "Monthly financial assistance during unemployment",
+        "duration": "3-6 months depending on contribution period",
+        "rate": "80% of average monthly wage for first 30 days, 50% thereafter",
+        "maxMonthlyAmount": 1600
+      },
+      "reducedIncomeAllowance": {
+        "description": "For those finding lower-paying jobs",
+        "duration": "Up to 6 months"
+      },
+      "trainingAllowance": {
+        "description": "Financial support during retraining programs"
+      },
+      "earlyReemploymentAllowance": {
+        "description": "Incentive for finding work quickly"
+      }
+    }
+  },
+  "eligibility": {
+    "minimumContributionMonths": 12,
+    "lostEmploymentDefinition": "Termination, dismissal, or end of contract (not resignation)",
+    "ageLimit": 60
+  },
+  "notes": [
+    "EIS is mandatory for all employees in private sector",
+    "Contributions are capped at wage ceiling of RM4,000",
+    "Self-employed and domestic workers are not covered",
+    "Benefits depend on contribution period"
+  ]
+}

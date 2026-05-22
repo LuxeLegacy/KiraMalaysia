@@ -1,0 +1,367 @@
+{
+  "epf": {
+    "title": "Kalkulator KWSP Malaysia 2026",
+    "subtitle": "Kira simpanan persaraan KWSP anda dan jejak kekayaan masa depan",
+    "description": "Kira caruman Kumpulan Wang Simpanan Pekerja (KWSP), unjurkan simpanan persaraan anda, dan rancang keselamatan kewangan."
+  },
+  "incomeTax": {
+    "title": "Kalkulator Cukai Pendapatan Malaysia 2026",
+    "subtitle": "Kira cukai pendapatan anda dengan kadar LHDN 2026",
+    "description": "Kira cukai pendapatan Malaysia anda berdasarkan kadar cukai LHDN 2026, termasuk semua pelepasan dan potongan cukai."
+  },
+  "socso": {
+    "title": "Kalkulator PERKESO Malaysia 2026",
+    "subtitle": "Kira caruman PERKESO untuk pekerja dan majikan",
+    "description": "Kira caruman Pertubuhan Keselamatan Sosial (PERKESO) untuk pekerja dan majikan."
+  },
+  "mortgage": {
+    "title": "Kalkulator Pinjaman Rumah Malaysia 2026",
+    "subtitle": "Kira bayaran bulanan, jumlah faedah, dan jadual pelunasan",
+    "description": "Kira bayaran bulanan pinjaman rumah, jumlah kos faedah, dan lihat jadual pelunasan lengkap."
+  },
+  "carLoan": {
+    "title": "Kalkulator Pinjaman Kereta Malaysia 2026",
+    "subtitle": "Kira bayaran pinjaman kereta dan bandingkan pilihan pembiayaan",
+    "description": "Kira ansuran pinjaman kereta anda, bandingkan tempoh pinjaman berbeza, dan cari pilihan pembiayaan terbaik."
+  },
+  "roadTax": {
+    "title": "Kalkulator Cukai Jalan Malaysia 2026",
+    "subtitle": "Kira jumlah pembaharuan cukai jalan untuk kenderaan anda",
+    "description": "Kira yuran pembaharuan cukai jalan untuk kereta dan motosikal di Malaysia berdasarkan kapasiti enjin."
+  },
+  "stampDuty": {
+    "title": "Kalkulator Duti Setem Malaysia 2026",
+    "subtitle": "Kira duti setem untuk transaksi hartanah",
+    "description": "Kira duti setem untuk pembelian hartanah, perjanjian pinjaman, dan memorandum pemindahan."
+  },
+  "rpgt": {
+    "title": "Kalkulator CKHT Malaysia 2026",
+    "subtitle": "Kira Cukai Keuntungan Harta Tanah ke atas jualan hartanah",
+    "description": "Kira Cukai Keuntungan Harta Tanah (CKHT) berdasarkan tempoh pegangan dan keuntungan hartanah."
+  },
+  "zakat": {
+    "title": "Kalkulator Zakat Malaysia 2026",
+    "subtitle": "Kira zakat ke atas pendapatan, simpanan, dan kekayaan",
+    "description": "Kira zakat ke atas pendapatan, simpanan, emas, perak, dan kekayaan perniagaan mengikut prinsip Islam."
+  },
+  "retirement": {
+    "title": "Kalkulator Persaraan Malaysia 2026",
+    "subtitle": "Rancang persaraan anda dan kira berapa banyak yang anda perlukan",
+    "description": "Rancang persaraan anda dengan mengira berapa banyak yang perlu anda simpan dan unjurkan pertumbuhan dana persaraan."
+  },
+  "payroll": {
+    "title": "Kalkulator Gaji Bersepadu Malaysia 2026",
+    "subtitle": "Kira KWSP, PERKESO, SIP, dan PCB dalam satu tempat",
+    "description": "Kalkulator gaji menyeluruh untuk caruman KWSP, PERKESO, SIP dan potongan cukai PCB."
+  },
+  "personalLoan": {
+    "title": "Kalkulator Pinjaman Peribadi Malaysia 2026",
+    "subtitle": "Kira ansuran pinjaman peribadi dan jumlah kos",
+    "description": "Kira ansuran bulanan, jumlah faedah, dan jadual pembayaran balik untuk pinjaman peribadi."
+  },
+  "loanEligibility": {
+    "title": "Kalkulator Kelayakan Pinjaman Malaysia 2026",
+    "subtitle": "Semak berapa banyak pinjaman yang anda mampu",
+    "description": "Kira kelayakan pinjaman maksimum anda berdasarkan pendapatan dan Nisbah Khidmat Hutang (DSR)."
+  },
+  "rentalYield": {
+    "title": "Kalkulator Hasil Sewa Malaysia 2026",
+    "subtitle": "Kira pulangan sewa hartanah dan ROI",
+    "description": "Kira hasil sewa kasar dan bersih, aliran tunai, dan pulangan pelaburan untuk hartanah sewaan."
+  },
+  "netWorth": {
+    "title": "Kalkulator Nilai Bersih Malaysia 2026",
+    "subtitle": "Jejak jumlah aset dan liabiliti anda",
+    "description": "Kira nilai bersih anda dengan menjumlahkan aset dan menolak liabiliti."
+  },
+  "inflation": {
+    "title": "Kalkulator Inflasi Malaysia 2026",
+    "subtitle": "Kira kesan inflasi ke atas kuasa beli",
+    "description": "Fahami bagaimana inflasi mempengaruhi nilai wang anda dari semasa ke semasa dan kuasa beli masa depan."
+  },
+  "pcb": {
+    "title": "Kalkulator PCB Malaysia 2026",
+    "subtitle": "Kira potongan cukai bulanan daripada gaji",
+    "description": "Kira Potongan Cukai Bulanan (PCB) berdasarkan gaji dan pelepasan anda."
+  },
+  "netSalary": {
+    "title": "Kalkulator Gaji Bersih Malaysia 2026",
+    "subtitle": "Kira gaji bawa balik anda selepas semua potongan",
+    "description": "Kira gaji bersih anda selepas potongan KWSP, PERKESO, SIP, dan PCB."
+  },
+  "grossToNet": {
+    "title": "Kalkulator Kasar ke Bersih Malaysia 2026",
+    "subtitle": "Tukar gaji kasar kepada gaji bawa balik bersih",
+    "description": "Tukar gaji bulanan kasar anda kepada gaji bawa balik bersih selepas potongan berkanun."
+  },
+  "takeHomePay": {
+    "title": "Kalkulator Gaji Bawa Balik Malaysia 2026",
+    "subtitle": "Kira gaji sebenar yang anda terima",
+    "description": "Kira gaji bawa balik sebenar anda selepas semua potongan dan cukai mandatori."
+  },
+  "bonusTax": {
+    "title": "Kalkulator Cukai Bonus Malaysia 2026",
+    "subtitle": "Kira cukai ke atas bonus tahunan anda",
+    "description": "Kira kesan cukai bonus anda dan lihat bagaimana ia mempengaruhi liabiliti cukai keseluruhan anda."
+  },
+  "13thMonthSalary": {
+    "title": "Kalkulator Cukai Gaji Bulan Ke-13 Malaysia 2026",
+    "subtitle": "Kira cukai ke atas bayaran gaji bulan ke-13",
+    "description": "Kira PCB dan kesan cukai tahunan gaji bulan ke-13 atau bonus tahunan anda."
+  },
+  "overtimeTax": {
+    "title": "Kalkulator Cukai Kerja Lebih Masa Malaysia 2026",
+    "subtitle": "Kira cukai ke atas pendapatan lebih masa",
+    "description": "Kira bagaimana bayaran kerja lebih masa mempengaruhi PCB bulanan dan liabiliti cukai tahunan anda."
+  },
+  "commissionTax": {
+    "title": "Kalkulator Cukai Komisen Malaysia 2026",
+    "subtitle": "Kira cukai ke atas pendapatan komisen",
+    "description": "Kira PCB dan liabiliti cukai untuk komisen jualan dan pendapatan berubah."
+  },
+  "annualTax": {
+    "title": "Kalkulator Cukai Tahunan Malaysia 2026",
+    "subtitle": "Kira jumlah liabiliti cukai tahunan anda",
+    "description": "Kira cukai pendapatan tahunan lengkap anda termasuk semua sumber pendapatan dan pelepasan."
+  },
+  "monthlyTaxPlanner": {
+    "title": "Perancang Cukai Bulanan Malaysia 2026",
+    "subtitle": "Rancang peruntukan cukai bulanan anda",
+    "description": "Rancang dan jejak peruntukan cukai bulanan anda untuk mengelakkan kejutan akhir tahun."
+  },
+  "taxRelief": {
+    "title": "Kalkulator Pelepasan Cukai Malaysia 2026",
+    "subtitle": "Kira semua pelepasan cukai yang layak",
+    "description": "Kira dan maksimumkan semua pelepasan cukai yang ada termasuk KWSP, insurans, pendidikan, dan gaya hidup."
+  },
+  "epfTaxRelief": {
+    "title": "Kalkulator Pelepasan Cukai KWSP Malaysia 2026",
+    "subtitle": "Kira penjimatan cukai daripada caruman KWSP",
+    "description": "Kira pelepasan cukai dan penjimatan daripada caruman sukarela Kumpulan Wang Simpanan Pekerja."
+  },
+  "prsTaxRelief": {
+    "title": "Kalkulator Pelepasan Cukai PRS Malaysia 2026",
+    "subtitle": "Kira pelepasan cukai daripada caruman PRS",
+    "description": "Kira pelepasan cukai daripada caruman Skim Persaraan Swasta (PRS) sehingga RM3,000."
+  },
+  "lifestyleRelief": {
+    "title": "Kalkulator Pelepasan Gaya Hidup Malaysia 2026",
+    "subtitle": "Kira pelepasan cukai ke atas perbelanjaan gaya hidup",
+    "description": "Kira pelepasan cukai gaya hidup untuk gim, peralatan sukan, buku, dan langganan internet."
+  },
+  "insuranceRelief": {
+    "title": "Kalkulator Pelepasan Insurans Malaysia 2026",
+    "subtitle": "Kira pelepasan cukai ke atas premium insurans",
+    "description": "Kira pelepasan cukai untuk premium insurans hayat dan insurans KWSP."
+  },
+  "zakatTaxRebate": {
+    "title": "Kalkulator Rebat Cukai Zakat Malaysia 2026",
+    "subtitle": "Kira rebat cukai daripada bayaran zakat",
+    "description": "Kira bagaimana bayaran zakat mengurangkan cukai akhir yang perlu dibayar sebagai rebat langsung."
+  },
+  "taxBracket": {
+    "title": "Kalkulator Kurungan Cukai Malaysia 2026",
+    "subtitle": "Cari kurungan cukai pendapatan anda",
+    "description": "Tentukan kurungan cukai yang anda berada dan kadar cukai marginal anda."
+  },
+  "marginalTaxRate": {
+    "title": "Kalkulator Kadar Cukai Marginal Malaysia 2026",
+    "subtitle": "Kira kadar cukai marginal anda",
+    "description": "Kira kadar cukai yang anda bayar ke atas ringgit terakhir pendapatan anda."
+  },
+  "effectiveTaxRate": {
+    "title": "Kalkulator Kadar Cukai Berkesan Malaysia 2026",
+    "subtitle": "Kira kadar cukai purata anda",
+    "description": "Kira kadar cukai berkesan (purata) anda merentas semua pendapatan."
+  },
+  "nextRinggitTaxed": {
+    "title": "Kalkulator Cukai Ringgit Seterusnya Malaysia 2026",
+    "subtitle": "Lihat cukai ke atas ringgit seterusnya yang diperoleh",
+    "description": "Kira berapa banyak cukai yang akan anda bayar ke atas ringgit seterusnya yang anda perolehi."
+  },
+  "salaryIncrementTax": {
+    "title": "Kesan Cukai Kenaikan Gaji Malaysia 2026",
+    "subtitle": "Kira kesan cukai kenaikan gaji",
+    "description": "Lihat bagaimana kenaikan gaji mempengaruhi cukai anda dan kenaikan bawa balik sebenar."
+  },
+  "raiseNegotiation": {
+    "title": "Kalkulator Rundingan Kenaikan Gaji Malaysia 2026",
+    "subtitle": "Kira faedah bersih kenaikan gaji",
+    "description": "Kira kenaikan bawa balik sebenar selepas cukai semasa merundingkan kenaikan gaji."
+  },
+  "jobSwitchTax": {
+    "title": "Kalkulator Cukai Tukar Kerja Malaysia 2026",
+    "subtitle": "Bandingkan kesan cukai semasa tukar kerja",
+    "description": "Kira dan bandingkan implikasi cukai apabila menukar kerja pertengahan tahun."
+  },
+  "newJobPcb": {
+    "title": "Penganggar PCB Kerja Baru Malaysia 2026",
+    "subtitle": "Anggarkan PCB untuk kerja baru anda",
+    "description": "Anggarkan Potongan Cukai Bulanan (PCB) apabila memulakan kerja baru."
+  },
+  "resignationMonthTax": {
+    "title": "Kalkulator Cukai Bulan Peletakan Jawatan Malaysia 2026",
+    "subtitle": "Kira kesan cukai masa peletakan jawatan",
+    "description": "Kira bagaimana bulan anda meletakkan jawatan mempengaruhi cukai tahunan dan penyelesaian akhir."
+  },
+  "companyAVsB": {
+    "title": "Perbandingan Gaji Syarikat A vs B Malaysia 2026",
+    "subtitle": "Bandingkan tawaran kerja selepas cukai",
+    "description": "Bandingkan dua tawaran kerja dengan mengira gaji bawa balik bersih selepas semua potongan dan cukai."
+  },
+  "bonusVsSalary": {
+    "title": "Perbandingan Bonus vs Gaji Malaysia 2026",
+    "subtitle": "Bandingkan struktur bonus vs kenaikan gaji",
+    "description": "Bandingkan kecekapan cukai menerima bonus berbanding kenaikan gaji setara."
+  },
+  "salaryOffernet": {
+    "title": "Kalkulator Bersih Tawaran Gaji Malaysia 2026",
+    "subtitle": "Kira nilai bersih tawaran kerja",
+    "description": "Kira nilai bawa balik bersih sebenar tawaran kerja termasuk semua faedah."
+  },
+  "payslipBreakdown": {
+    "title": "Kalkulator Pecahan Slip Gaji Malaysia 2026",
+    "subtitle": "Fahami potongan slip gaji anda",
+    "description": "Pecahkan dan fahami semua komponen slip gaji bulanan anda."
+  },
+  "mtd": {
+    "title": "Kalkulator MTD Malaysia 2026",
+    "subtitle": "Kira Potongan Cukai Bulanan",
+    "description": "Kira Potongan Cukai Bulanan (MTD) anda juga dikenali sebagai PCB."
+  },
+  "ytdTaxTracker": {
+    "title": "Penjejak Cukai YTD Malaysia 2026",
+    "subtitle": "Jejak bayaran cukai tahun-ke-tarikh",
+    "description": "Jejak pendapatan tahun-ke-tarikh dan potongan cukai untuk unjurkan liabiliti cukai akhir."
+  },
+  "monthlyToAnnual": {
+    "title": "Penukar Cukai Bulanan ke Tahunan Malaysia 2026",
+    "subtitle": "Tukar PCB bulanan kepada cukai tahunan",
+    "description": "Tukar potongan PCB bulanan kepada unjuran liabiliti cukai tahunan."
+  },
+  "monthlyIncomeProjection": {
+    "title": "Unjuran Pendapatan Bulanan Malaysia 2026",
+    "subtitle": "Unjurkan pendapatan tahunan daripada gaji bulanan",
+    "description": "Unjurkan pendapatan tahunan dan cukai anda berdasarkan gaji bulanan dan bonus."
+  },
+  "taxProvision": {
+    "title": "Kalkulator Peruntukan Cukai Malaysia 2026",
+    "subtitle": "Kira peruntukan cukai bulanan yang diperlukan",
+    "description": "Kira berapa banyak untuk diketepikan bulanan untuk pemfailan cukai tahunan."
+  },
+  "taxRefund": {
+    "title": "Kalkulator Bayaran Balik Cukai Malaysia 2026",
+    "subtitle": "Kira jangkaan bayaran balik cukai atau baki",
+    "description": "Kira sama ada anda akan mendapat bayaran balik cukai atau perlu membayar cukai tambahan."
+  },
+  "overUnderMtd": {
+    "title": "Pengesan MTD Lebih/Kurang Malaysia 2026",
+    "subtitle": "Semak sama ada potongan PCB adalah betul",
+    "description": "Kesan sama ada potongan cukai bulanan anda terlalu tinggi atau terlalu rendah berbanding liabiliti sebenar."
+  },
+  "nonResidentTax": {
+    "title": "Kalkulator Cukai Bukan Pemastautin Malaysia 2026",
+    "subtitle": "Kira cukai untuk bukan pemastautin",
+    "description": "Kira cukai pendapatan untuk bukan pemastautin pada kadar tetap 30%."
+  },
+  "residentVsNonresident": {
+    "title": "Perbandingan Cukai Pemastautin vs Bukan Pemastautin Malaysia 2026",
+    "subtitle": "Bandingkan kadar cukai pemastautin dan bukan pemastautin",
+    "description": "Bandingkan liabiliti cukai antara status pemastautin dan bukan pemastautin."
+  },
+  "residencyDays": {
+    "title": "Kalkulator Hari Kediaman Malaysia 2026",
+    "subtitle": "Kira status kediaman cukai",
+    "description": "Kira sama ada anda layak sebagai pemastautin cukai berdasarkan hari di Malaysia."
+  },
+  "expatNetPay": {
+    "title": "Kalkulator Gaji Bersih Ekspatriat Malaysia 2026",
+    "subtitle": "Kira gaji bersih ekspatriat",
+    "description": "Kira gaji bersih untuk ekspatriat termasuk pertimbangan cukai dan elaun."
+  },
+  "employerTaxBorne": {
+    "title": "Kalkulator Cukai Ditanggung Majikan Malaysia 2026",
+    "subtitle": "Kira faedah cukai ditanggung majikan",
+    "description": "Kira nilai apabila majikan membayar cukai pendapatan anda (pengaturan cukai ditanggung)."
+  },
+  "salaryPackaging": {
+    "title": "Kesan Cukai Pembungkusan Gaji Malaysia 2026",
+    "subtitle": "Optimumkan struktur pakej gaji",
+    "description": "Optimumkan pakej pampasan anda dengan memahami layanan cukai komponen berbeza."
+  },
+  "allowanceTaxability": {
+    "title": "Penyemak Kebolehtaksiran Elaun Malaysia 2026",
+    "subtitle": "Semak sama ada elaun boleh dikenakan cukai",
+    "description": "Semak elaun dan faedah mana yang boleh dikenakan cukai di bawah undang-undang cukai Malaysia."
+  },
+  "freelancerTax": {
+    "title": "Kalkulator Cukai Pekerja Bebas Malaysia 2026",
+    "subtitle": "Kira cukai untuk pendapatan bekerja sendiri",
+    "description": "Kira cukai pendapatan untuk pekerja bebas dan individu bekerja sendiri."
+  },
+  "sideIncomeTax": {
+    "title": "Ketepian Cukai Pendapatan Sampingan Malaysia 2026",
+    "subtitle": "Kira peruntukan cukai untuk pendapatan sampingan",
+    "description": "Kira berapa banyak untuk diketepikan untuk cukai ke atas pendapatan bebas dan sampingan."
+  },
+  "rentalIncomeTax": {
+    "title": "Kalkulator Cukai Pendapatan Sewa Malaysia 2026",
+    "subtitle": "Kira cukai ke atas pendapatan sewa",
+    "description": "Kira cukai pendapatan ke atas pendapatan sewa hartanah dengan potongan yang dibenarkan."
+  },
+  "grabDriverTax": {
+    "title": "Kalkulator Cukai Pemandu Grab Malaysia 2026",
+    "subtitle": "Kira cukai untuk pemandu Grab",
+    "description": "Kira cukai pendapatan untuk pemandu Grab dengan mengambil kira perbelanjaan dan potongan."
+  },
+  "shopeeSellerTax": {
+    "title": "Kalkulator Cukai Penjual Shopee Malaysia 2026",
+    "subtitle": "Kira cukai untuk penjual e-dagang",
+    "description": "Kira cukai pendapatan untuk penjual Shopee dan e-dagang."
+  },
+  "tp3Income": {
+    "title": "Kalkulator Pendapatan TP3 Malaysia 2026",
+    "subtitle": "Kira pendapatan untuk borang PCB TP3",
+    "description": "Kira jumlah pendapatan untuk melengkapkan borang PCB TP3 di pekerjaan baru."
+  },
+  "unpaidLeaveTax": {
+    "title": "Kesan Cukai Cuti Tanpa Gaji Malaysia 2026",
+    "subtitle": "Kira kesan cukai cuti tanpa gaji",
+    "description": "Kira bagaimana cuti tanpa gaji mempengaruhi pendapatan tahunan dan liabiliti cukai anda."
+  },
+  "warnings": {
+    "loanRejection": "69% permohonan pinjaman ditolak. Jangan bazir 3 bulan untuk tahu anda tidak boleh pinjam.",
+    "loanRejectionBody": "Corak yang menyedihkan: Rakyat Malaysia jumpa rumah idaman, rundingan harga, bayar yuran tempahan... kemudian pinjaman ditolak. Bank gunakan peraturan DSR 70%. Jika hutang anda melebihi 70% pendapatan, anda automatik ditolak.",
+    "loanRejectionCTA": "Gunakan kalkulator ini SEBELUM anda cari rumah. Ketahui had pinjaman SEBENAR anda. Jangan jatuh cinta dengan hartanah RM800,000 bila anda hanya boleh pinjam RM450,000. Kira kelayakan anda dalam 60 saat."
+  },
+  "content": {
+    "loanEligibilityUnderstanding": "Memahami Kelayakan Pinjaman dan DSR di Malaysia",
+    "loanEligibilityPara1": "Nisbah Khidmat Hutang (DSR) adalah metrik utama yang digunakan bank Malaysia untuk menilai keupayaan anda membayar hutang tambahan. Ia mewakili peratusan pendapatan kasar bulanan anda yang digunakan untuk membayar semua obligasi hutang. Garis panduan Bank Negara Malaysia biasanya mengehadkan DSR kepada maksimum 70%, walaupun sesetengah bank mungkin lebih konservatif. Pengiraan DSR mempertimbangkan semua pinjaman sedia ada anda termasuk pinjaman rumah, pinjaman kereta, pinjaman peribadi, dan baki kad kredit.",
+    "loanEligibilityPara2": "Memahami DSR anda adalah penting sebelum memohon sebarang pinjaman. Jika DSR anda sudah pada 70%, anda tidak akan layak untuk pembiayaan tambahan tanpa mengira tahap pendapatan anda. Inilah sebabnya perancangan kewangan dan pengurusan hutang adalah penting. Ramai orang terkejut apabila mengetahui mereka tidak boleh meminjam sebanyak yang dijangka kerana komitmen sedia ada telah menghabiskan kapasiti pinjaman mereka.",
+    "loanEligibilityPara3": "Semasa mengira DSR, bank melihat pendapatan kasar (sebelum potongan seperti KWSP, PERKESO, dan cukai) tetapi pertimbangkan obligasi bersih anda. Jika anda mempunyai pendapatan berubah daripada komisen atau bonus, bank biasanya purata ini selama 6-12 bulan. Untuk individu bekerja sendiri, bank menyemak penyata cukai dan penyata kewangan dari 2-3 tahun lalu untuk menentukan tahap pendapatan yang mampan.",
+    "loanEligibilityPara4": "Jumlah pinjaman maksimum dikira menggunakan formula nilai kini anuiti, mempertimbangkan kapasiti pembayaran bulanan yang ada, kadar faedah, dan tempoh pinjaman. Tempoh yang lebih lama membolehkan anda meminjam lebih banyak dengan bayaran bulanan yang sama, tetapi anda akan membayar faedah yang jauh lebih banyak dari masa ke masa. Contohnya, pada faedah 4.5%, melanjutkan dari 20 ke 30 tahun mungkin meningkatkan kapasiti pinjaman sebanyak 25% tetapi hampir menggandakan jumlah faedah yang dibayar.",
+    "loanEligibilityPara5": "Selain DSR, bank mempertimbangkan faktor lain: skor kredit (laporan CCRIS dan CTOS), kestabilan pekerjaan, umur (pinjaman biasanya mesti dibayar balik pada umur 65-70), nisbah pinjaman kepada nilai (LTV), dan jenis hartanah atau aset yang dibiayai. Walaupun dengan DSR yang baik, sejarah kredit yang lemah atau pekerjaan yang tidak stabil boleh menyebabkan penolakan pinjaman atau kadar faedah yang lebih tinggi. Mengekalkan kesihatan kewangan yang baik di semua dimensi ini memaksimumkan kuasa pinjaman anda dan mendapatkan terma yang menguntungkan."
+  },
+  "faq": {
+    "loanEligibility": {
+      "q1": "Apakah DSR dan bagaimana ia mempengaruhi kelayakan pinjaman?",
+      "a1": "Nisbah Khidmat Hutang (DSR) adalah peratusan pendapatan bulanan anda yang digunakan untuk membayar obligasi hutang. Bank Malaysia biasanya memerlukan DSR di bawah 70%. DSR yang lebih rendah menunjukkan kesihatan kewangan yang lebih baik dan meningkatkan peluang kelulusan pinjaman anda dengan terma yang menggalakkan.",
+      "q2": "Apakah yang dikira sebagai komitmen sedia ada untuk pengiraan DSR?",
+      "a2": "Komitmen sedia ada termasuk semua obligasi hutang bulanan seperti pinjaman rumah, pinjaman kereta, pinjaman peribadi, ansuran kad kredit, dan pinjaman pendidikan. Walaupun anda penjamin untuk pinjaman orang lain, bank mungkin memasukkan sebahagian daripada pinjaman itu dalam pengiraan DSR anda.",
+      "q3": "Bagaimana saya boleh meningkatkan kelayakan pinjaman saya?",
+      "a3": "Untuk meningkatkan kelayakan, tingkatkan pendapatan anda melalui kenaikan gaji atau sumber pendapatan tambahan, kurangkan hutang sedia ada dengan membayar pinjaman yang lebih kecil dahulu, kekalkan skor kredit yang baik dengan membayar bil tepat pada masanya, dan pertimbangkan tempoh pinjaman yang lebih lama untuk mengurangkan bayaran bulanan (walaupun ini meningkatkan jumlah faedah).",
+      "q4": "Bolehkah saya pinjam lebih banyak jika saya mempunyai pendapatan yang lebih tinggi?",
+      "a4": "Ya, pendapatan yang lebih tinggi secara amnya membenarkan jumlah pinjaman yang lebih tinggi selagi DSR anda kekal dalam had. Walau bagaimanapun, bank juga mempertimbangkan faktor lain seperti kestabilan pekerjaan, sejarah kredit, umur, dan nisbah pinjaman kepada nilai. Pendapatan tinggi sahaja tidak menjamin kelulusan pinjaman maksimum.",
+      "q5": "Bagaimana jika DSR saya melebihi 70%?",
+      "a5": "Jika DSR anda melebihi 70%, kebanyakan bank tidak akan meluluskan pinjaman tambahan. Pilihan termasuk membayar hutang sedia ada untuk mengurangkan komitmen, mencari peminjam bersama untuk meningkatkan pendapatan gabungan, meningkatkan bayaran pendahuluan anda untuk mengurangkan jumlah pinjaman yang diperlukan, atau menunggu untuk memperbaiki situasi kewangan anda sebelum memohon."
+    }
+  },
+  "cta": {
+    "loanOffers": "Bersedia Untuk Memohon Pinjaman?",
+    "loanOffersDesc": "Bandingkan tawaran pinjaman dari pelbagai bank untuk mencari kadar dan terma terbaik yang sesuai dengan kelayakan anda. Dapatkan nasihat peribadi daripada pakar kewangan.",
+    "loanOffersButton": "Bandingkan Tawaran Pinjaman"
+  },
+  "disclaimer": {
+    "general": "Kalkulator ini hanya untuk tujuan anggaran dan tidak berafiliasi dengan mana-mana institusi kewangan. Kelayakan pinjaman sebenar bergantung kepada pelbagai faktor termasuk sejarah kredit, status pekerjaan, dan polisi khusus bank. Rujuk dengan penasihat kewangan berlesen atau bank untuk penilaian yang tepat."
+  }
+}
